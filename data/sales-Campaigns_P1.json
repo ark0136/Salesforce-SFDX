@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "CampaignRef1"
+            },
+            "Name": "Marketing",
+            "Status": "In Progress",
+            "Description": "The top level marketing campaign"
+        }
+    ]
+}

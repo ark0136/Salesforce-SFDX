@@ -1,0 +1,3175 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef1"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Indoor_Access_Point",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wireless_LAN",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef2"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Current_Coverage_Area",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wireless_LAN",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef3"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Make Payments",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef4"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Online Invoicing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef5"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Payment Processor",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef6"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Reporting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef7"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Payroll",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef8"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Vehicle Registration",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef9"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Professional Services",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef10"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Data Services",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef11"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Document Management",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef12"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Online Retailing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef13"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Showroom Traffic",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef14"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Inventory",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef15"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Inventory Scanning",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef16"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Credit Services",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef17"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Obsolesence",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef18"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Parts Catalog",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef19"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Parts Delivery",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef20"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Inventory Scanning",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef21"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Online Appointment",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef22"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "F&I Product Sales",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef23"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Drive Technology",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef24"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Pricing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef25"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Multi-Point Inspection",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef26"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Shop",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef27"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Contracting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef28"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Texting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef29"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Payment Processors",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef30"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "eContracting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef31"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Wireless_LAN",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef32"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Wireless_LAN",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef33"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Wireless_LAN",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef34"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Shop",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef35"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Texting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef36"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Payment Processors",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef37"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Tablet",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef38"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Pricing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef39"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Multi-Point Inspection",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef40"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Shop",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef41"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Texting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef42"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Online Retailing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef43"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Showroom Traffic",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef44"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Inventory",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef45"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Inventory Scanning",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef46"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Credit Services",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef47"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Corporate_Controller",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef48"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Wholesale",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts_Warehouse",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef49"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Corporate_Controller",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef50"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Executive_Offices",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef51"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Showroom",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Showroom",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef52"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Shop",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Service_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef53"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Preowned_Showroom",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef54"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_COLO_Computer_Room",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_COLO",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef55"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Inventory_Manager",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef56"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "FandI",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef57"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Admin",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Service_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef58"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BDC_Call_Center",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Showroom",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef59"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Main_Computer_Room",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef60"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Warehouse",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef61"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Computer_Closet",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef62"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "FandI",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Showroom",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef63"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Warehouse",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts_Warehouse",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef64"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "HR_Office",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef65"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane_Admin",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef66"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Drive",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef67"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Showroom",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef68"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Customer_Lounge",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef69"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Wholesale",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef70"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Shop",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef71"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane_Drive",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef72"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane_Waiting",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef73"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Executive_Offices",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef74"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "HR_Office",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Dealership_Wide",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef75"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Front_Counter",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef76"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready_Office",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef77"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Estimator",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef78"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Body_Shop",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef79"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Body_Shop_Admin",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef80"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Office_Manager",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef81"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready_Shop",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef82"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Quick_Lane",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef83"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Back_Counter",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef84"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Admin",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef85"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BDC_Department",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef86"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "FandI",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef87"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service_Waiting",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef88"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Vehicle_Inventory",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef89"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Inventory_Manager",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Sales",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef90"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "HR_Office",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef91"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Corporate_Controller",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef92"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Executive_Offices",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef93"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "HR_Office",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate_Office",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef94"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Computer_Closet",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef95"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Computer_Room",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef96"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "General_Accounting",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef97"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane_Shop",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef98"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Computer_Closet",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_LAN",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef99"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Front_Counter",
+            "AssociatedObjectName__c": "Department_Area__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Parts_Warehouse",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef100"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "F&I Product Sales",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef101"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Contracting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef102"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "eContracting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef103"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Online Appointment",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef104"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Drive Technology",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef105"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Pricing",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef106"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Multi-Point Inspection",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef107"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Service Shop",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef108"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Texting",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef109"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Payment Processors",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef110"
+            },
+            "AssociatedFieldName__c": "Operational_Area__c",
+            "AssociatedFieldValue__c": "Post Payables",
+            "AssociatedObjectName__c": "Product2",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Accounting",
+            "LookupObjectType__c": "Department__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef111"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Main",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 11,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef112"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Showroom",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 10,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef113"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Body_Shop",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 13,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef114"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Parts_Warehouse",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 6,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef115"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Fixed_Ops",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 16,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef116"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Quick_Lane",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 20,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef117"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Accounting",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef118"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Body_Shop",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 2,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef119"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Corporate",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 3,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef120"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Fixed_Ops",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 4,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef121"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Make_Ready",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 5,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef122"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "PLACEHOLDERDMS",
+            "AssociatedObjectName__c": "PLACEHOLDERDMS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 0,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef123"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_COLO",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 14,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef124"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Corporate",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 15,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef125"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Make_Ready",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 17,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef126"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Parts_Warehouse",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 18,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef127"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Preowned",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 19,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef128"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Preowned",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 7,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef129"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Quick_Lane",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 8,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef130"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Local_Service_Shop",
+            "AssociatedObjectName__c": "LOCALBUILDING",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 9,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef131"
+            },
+            "AssociatedFieldName__c": "TypeId",
+            "AssociatedFieldValue__c": "Remote_Accounting",
+            "AssociatedObjectName__c": "PLACEHOLDERCAMPUS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "Create",
+            "LookupFieldValue__c": "True",
+            "LookupObjectType__c": "WAN_Template",
+            "Order__c": 12,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef132"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Preowned",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef133"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Quick_Lane",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef134"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Accounting",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef135"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Quick_Lane",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef136"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Quick_Lane",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Quick_Lane",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef137"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Quick_Lane",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef138"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_Service_Shop",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Service_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef139"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts_Warehouse",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Parts_Warehouse",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef140"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Parts_Warehouse",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef141"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts_Warehouse",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Parts_Warehouse",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef142"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Parts_Warehouse",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef143"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_COLO",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef144"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Make_Ready",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef145"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Service_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef146"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Body_Shop",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Body_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef147"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Body_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef148"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Body_Shop",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Body_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef149"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Body_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef150"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Make_Ready",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef151"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Make_Ready",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef152"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Make_Ready",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef153"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Accounting",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef154"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_COLO",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_COLO",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef155"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Preowned",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Preowned",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef156"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef157"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Main_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef158"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Preowned",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef159"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Accounting",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef160"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef161"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef162"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef163"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef164"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef165"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Parts_Warehouse",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef166"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef167"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef168"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Fixed_Ops",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef169"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef170"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef171"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Service",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef172"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Body_Shop",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef173"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Make_Ready",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef174"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Sales",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef175"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Accounting",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Accounting",
+            "LookupObjectType__c": "Building__c",
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef176"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Body_Shop",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef177"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Make_Ready",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef178"
+            },
+            "AssociatedFieldName__c": "Is_Primary",
+            "AssociatedFieldValue__c": "True",
+            "AssociatedObjectName__c": "Campus_Primary_Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Quick_Lane",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef179"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_Corporate_Office",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Corporate",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef180"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Dealership_Wide",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef181"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Corporate",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef182"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_Corporate_Office",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef183"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Remote_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Corporate",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef184"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Accounting",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef185"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Showroom",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef186"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wholesale",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef187"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wholesale",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef188"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wholesale",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef189"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wholesale",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef190"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_24_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Computer_Closet",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef191"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_24_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef192"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Primary_Router",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef193"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Firewall",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef194"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Executive_Offices",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef195"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef196"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef197"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef198"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef199"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        }
+    ]
+}

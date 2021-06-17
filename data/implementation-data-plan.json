@@ -1,0 +1,52 @@
+[
+	{
+        "sobject": "SubProject__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-SubProject__cs_p.json"
+        ]
+    },
+	{
+        "sobject": "SubProject__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-SubProject__cs.json"
+        ]
+    },
+	{
+        "sobject": "SubProjectSite__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-SubProjectSite__cs1.json",
+			"imp-SubProjectSite__cs2.json",
+			"imp-SubProjectSite__cs3.json"
+        ]
+    },
+	{
+        "sobject": "CDK_Product__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-CDK_Product__cs.json"
+        ]
+    },
+    {
+        "sobject": "Product_Checklist__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-Product_Checklist__c.json"
+        ]
+    },
+	{
+        "sobject": "Product_at_Site_eLead_Sales__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "imp-Product_at_Site_eLead_Sales__c.json"
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+{
+   "records":[
+      {
+         "attributes":{
+            "type":"CMF_Info__c",
+            "referenceId":"CMF_Info__cRef18"
+         },
+         "Name":"BOWSER TRUCK/BODY SHOP",
+         "Account__c":"@AccountRef5",
+         "Ship_CMF__c":"76043698",
+         "Main_CMF__c":"33201001",
+         "Ship_CMF_Business_Unit__c":"IPNS-ADMINISTRATION",
+         "Ship_CMF_Region_Code_Name__c":"IPNS",
+         "Status__c":"A",
+         "Collector__c":"KUTADZA, TATENDA",
+         "Segment_Code_del__c":"IP",
+         "Segment_Name__c":"IPNS",
+         "Bill_CMF__c":"76043698",
+         "Main_CMF_Status__c":"A",
+         "Bill_CMF_Status__c":"A",
+         "Classification__c":"IPNS-HOSTED VOICE",
+         "Main_CMF_Business_Unit_Code__c":"0127",
+         "Main_CMF_Region_Code__c":"680",
+         "Main_CMF_Business_Unit__c":"MAJOR-NORTHEAST",
+         "Main_CMF_Region_Code_Name__c":"MAJOR NORTHEAST",
+         "Ship_CMF_Business_Unit_Code__c":"4100",
+         "Ship_CMF_Region_Code__c":"820",
+         "Key_CAM__c":"Wael Elayan",
+         "Key_CAM_Email__c":"wael.elayan@cdk.com",
+         "SLS_Baseline_CMF_Number__c":"76154178",
+         "HES_Code__c":"747",
+         "HES_Code_Cost_Center__c":"FIELD SVC - FLORENCE",
+         "Buy_Sell_Completed__c":false
+      },
+      {
+         "attributes":{
+            "type":"CMF_Info__c",
+            "referenceId":"CMF_Info__cRef39"
+         },
+         "Name":"Bowser Truck/Body Shop",
+         "Account__c":"@AccountRef5",
+         "Ship_CMF__c":"76154178",
+         "Main_CMF__c":"33201001",
+         "Ship_CMF_Business_Unit__c":"MAJOR-CENTRAL",
+         "Ship_CMF_Region_Code_Name__c":"CENTRAL",
+         "Status__c":"A",
+         "Collector__c":"KUTADZA, TATENDA",
+         "Segment_Code_del__c":"M",
+         "Segment_Name__c":"MAJOR ACCOUNTS",
+         "Bill_CMF__c":"76154178",
+         "Main_CMF_Status__c":"A",
+         "Bill_CMF_Status__c":"A",
+         "Classification__c":"AUTO",
+         "Ship_CMF_Business_Unit_Code__c":"0121",
+         "Ship_CMF_Region_Code__c":"670",
+         "Key_CAM__c":"Doug Duvall",
+         "Key_CAM_Email__c":"doug.duvall@cdk.com",
+         "SLS_Baseline_CMF_Number__c":"76154178",
+         "HES_Code__c":"747",
+         "HES_Code_Cost_Center__c":"FIELD SVC - FLORENCE",
+         "Data_Rights_Consent__c":"Yes",
+         "Buy_Sell_Completed__c":false
+      }
+   ]
+}

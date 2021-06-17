@@ -1,0 +1,1000 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef1"
+            },
+            "Name": "Dealership Wide",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Dealership_Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef2"
+            },
+            "Name": "Dealership Wide",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Dealership_Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef3"
+            },
+            "Name": "Dealership Wide",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Dealership_Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef4"
+            },
+            "Name": "Dealership Wide",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Dealership_Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef5"
+            },
+            "Name": "Main Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Main",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef6"
+            },
+            "Name": "Remote Corporate Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Corporate",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef7"
+            },
+            "Name": "Remote COLO Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_COLO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef8"
+            },
+            "Name": "Remote Body Shop Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Body_Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef9"
+            },
+            "Name": "Remote Accounting Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef10"
+            },
+            "Name": "Local Showroom Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Showroom",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef11"
+            },
+            "Name": "Local Service Shop Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Service_Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef12"
+            },
+            "Name": "Local Quick Lane Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Quick_Lane",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef13"
+            },
+            "Name": "Local Preowned Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Preowned",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef14"
+            },
+            "Name": "Local Parts Warehouse Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Parts_Warehouse",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef15"
+            },
+            "Name": "Local Make Ready Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Make_Ready",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef16"
+            },
+            "Name": "Remote Fixed Ops Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Fixed_Ops",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef17"
+            },
+            "Name": "Remote Make Ready Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Make_Ready",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef18"
+            },
+            "Name": "Remote Parts Warehouse Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Parts_Warehouse",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef19"
+            },
+            "Name": "Remote Preowned Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Preowned",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef20"
+            },
+            "Name": "Remote Quick Lane Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Remote_Quick_Lane",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef21"
+            },
+            "Name": "Local Fixed Ops Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Fixed_Ops",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef22"
+            },
+            "Name": "Main Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Main",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef23"
+            },
+            "Name": "Local Accounting Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef24"
+            },
+            "Name": "Local Body Shop Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Body_Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef25"
+            },
+            "Name": "Local Corporate Building",
+            "Associated_Object__c": "Building__c",
+            "Associated_Object_Record_Type__c": "Local_Corporate",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef26"
+            },
+            "Name": "Accounting",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef27"
+            },
+            "Name": "Main LAN",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Main_LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef28"
+            },
+            "Name": "Make Ready",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Make_Ready",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef9"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef29"
+            },
+            "Name": "Parts",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Parts",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef10"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef30"
+            },
+            "Name": "Parts Warehouse",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Parts_Warehouse",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef11"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef31"
+            },
+            "Name": "Preowned",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Preowned",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef12"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef32"
+            },
+            "Name": "Quick Lane",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Quick_Lane",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef13"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef33"
+            },
+            "Name": "Remote COLO",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Remote_COLO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef14"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef34"
+            },
+            "Name": "Impact Report",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Impact_Report",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef15"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef35"
+            },
+            "Name": "Indoor Access Point",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Indoor_Access_Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef16"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef36"
+            },
+            "Name": "Large Scanner",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Large_Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef17"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef37"
+            },
+            "Name": "MICR Laser",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "MICR_Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef18"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef38"
+            },
+            "Name": "Network Copier",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Network_Copier",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef19"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef39"
+            },
+            "Name": "New Coverage Area",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "New_Coverage_Area",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef20"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef40"
+            },
+            "Name": "Remote Corporate",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Remote_Corporate_Office",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef21"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef41"
+            },
+            "Name": "Remote LAN",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Remote_LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef22"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef42"
+            },
+            "Name": "Sales",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Sales",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef23"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef43"
+            },
+            "Name": "Service",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Service",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef24"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef44"
+            },
+            "Name": "BW Laser",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "BW_Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef25"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef45"
+            },
+            "Name": "Color Laser",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Color_Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef26"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef46"
+            },
+            "Name": "Credit Card Machine",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Credit_Card_Machine",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef27"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef47"
+            },
+            "Name": "Current Coverage Area",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Current_Coverage_Area",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef28"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef48"
+            },
+            "Name": "Desktop Scanner",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Desktop_Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef49"
+            },
+            "Name": "DMS Server",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "DMS_Server",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef30"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef50"
+            },
+            "Name": "F&I Impact Printer",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "F_I_Impact_Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef31"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef51"
+            },
+            "Name": "Fax Machine",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Fax_Machine",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef32"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef52"
+            },
+            "Name": "Firewall",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Firewall",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef33"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef53"
+            },
+            "Name": "General Server",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "General_Server",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef34"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef54"
+            },
+            "Name": "Body Shop",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Body_Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef35"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef55"
+            },
+            "Name": "Dealership Wide",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Dealership_Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef36"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef56"
+            },
+            "Name": "Local LAN",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Local_LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef37"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef57"
+            },
+            "Name": "Local Corporate Office",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Local_Corporate_Office",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef58"
+            },
+            "Name": "Local Service Shop",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Local_Service_Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef39"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef59"
+            },
+            "Name": "Local Showroom",
+            "Associated_Object__c": "Department__c",
+            "Associated_Object_Record_Type__c": "Local_Showroom",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef40"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef60"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef41"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef61"
+            },
+            "Name": "Outdoor Access Point",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Outdoor_Access_Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef47"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef62"
+            },
+            "Name": "Parts Scan - Barcode Label Printer",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Parts_Scan_Barcode_Label_Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef63"
+            },
+            "Name": "Parts Scan - Barcode Scanner",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Parts_Scan_Barcode_Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef49"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef64"
+            },
+            "Name": "Parts Scan - Wireless Access Point",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Parts_Scan_Wireless_Access_Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef50"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef65"
+            },
+            "Name": "PC",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "PC",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef51"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef66"
+            },
+            "Name": "Phone",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Phone",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef52"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef67"
+            },
+            "Name": "Portable Label Printer",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Portable_Label_Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef53"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef68"
+            },
+            "Name": "Primary Router",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Primary_Router",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef54"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef69"
+            },
+            "Name": "SDWAN",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "SDWAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef55"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef70"
+            },
+            "Name": "Secondary Router",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Secondary_Router",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef56"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef71"
+            },
+            "Name": "Switch 12 Port",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Switch_12_Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef57"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef72"
+            },
+            "Name": "Switch 24 Port",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Switch_24_Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef58"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef73"
+            },
+            "Name": "Switch 48 Port",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Switch_48_Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef59"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef74"
+            },
+            "Name": "Switch 8 Port",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Switch_8_Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef75"
+            },
+            "Name": "Vehicle Scan - Barcode Label Printer",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Vehicle_Scan_Barcode_Label_Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef61"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef76"
+            },
+            "Name": "Vehicle Scan - Barcode Scanner",
+            "Associated_Object__c": "Department_Equipment__c",
+            "Associated_Object_Record_Type__c": "Vehicle_Scan_Barcode_Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef62"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef77"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef69"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef78"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": false,
+            "Question_Group__c": "@Question_Group__cRef78"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef79"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": false,
+            "Question_Group__c": "@Question_Group__cRef92"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef80"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": false,
+            "Question_Group__c": "@Question_Group__cRef97"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef81"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef103"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef82"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": false,
+            "Question_Group__c": "@Question_Group__cRef104"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group_Map__c",
+                "referenceId": "Question_Group_Map__cRef83"
+            },
+            "Name": "General Accounting Area",
+            "Associated_Object__c": "Department_Area__c",
+            "Associated_Object_Record_Type__c": "General_Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Is_Default__c": true,
+            "Question_Group__c": "@Question_Group__cRef112"
+        }
+    ]
+}

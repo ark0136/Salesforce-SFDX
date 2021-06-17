@@ -1,0 +1,308 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef1"
+            },
+            
+            
+           "Department__c": "@Department__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef2"
+            },
+            
+            
+           "Department__c": "@Department__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef3"
+            },
+            
+            
+           "Department__c": "@Department__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef4"
+            },
+            
+            
+           "Department__c": "@Department__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef5"
+            },
+            
+            
+           "Department__c": "@Department__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef6"
+            },
+            
+            
+           "Department__c": "@Department__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef7"
+            },
+            
+            
+           "Department__c": "@Department__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef8"
+            },
+            
+            
+           "Department__c": "@Department__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef9"
+            },
+            
+            
+           "Department__c": "@Department__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef10"
+            },
+            
+            
+           "Department__c": "@Department__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef11"
+            },
+            
+            
+           "Department__c": "@Department__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef12"
+            },
+            
+            
+           "Department__c": "@Department__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef13"
+            },
+            
+            
+           "Department__c": "@Department__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef14"
+            },
+            
+           "Department__c": "@Department__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef15"
+            },
+            
+            
+           "Department__c": "@Department__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef16"
+            },
+            
+            
+           "Department__c": "@Department__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef17"
+            },
+            
+            
+           "Department__c": "@Department__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef18"
+            },
+            
+            
+           "Department__c": "@Department__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef19"
+            },
+            
+            
+           "Department__c": "@Department__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef20"
+            },
+            
+            
+           "Department__c": "@Department__cRef12"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef21"
+            },
+            
+            
+           "Department__c": "@Department__cRef12"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef22"
+            },
+            
+            
+           "Department__c": "@Department__cRef12"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef23"
+            },
+            
+            
+           "Department__c": "@Department__cRef28"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef24"
+            },
+            
+            
+           "Department__c": "@Department__cRef28"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef25"
+            },
+            
+            
+           "Department__c": "@Department__cRef28"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef26"
+            },
+            
+            
+           "Department__c": "@Department__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef27"
+            },
+            
+            
+           "Department__c": "@Department__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef28"
+            },
+            
+            
+           "Department__c": "@Department__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef29"
+            },
+            
+            
+           "Department__c": "@Department__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef30"
+            },
+            
+            "Department__c": "@Department__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef31"
+            },
+            
+            
+           "Department__c": "@Department__cRef35"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef32"
+            },
+            
+            
+           "Department__c": "@Department__cRef35"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef33"
+            },
+            
+            
+           "Department__c": "@Department__cRef35"
+        },
+        {
+            "attributes": {
+                "type": "Department_Equipment__c",
+                "referenceId": "Department_Equipment__cRef34"
+            },
+            
+            
+           "Department__c": "@Department__cRef35"
+        }
+    ]
+}

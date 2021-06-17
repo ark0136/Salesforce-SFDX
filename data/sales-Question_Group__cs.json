@@ -1,0 +1,1093 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef1"
+            },
+            "Name": "Dealership Wide Area Network",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A Parent question Group for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef2"
+            },
+            "Name": "DMS",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A DMS question group record for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef3"
+            },
+            "Name": "Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A Personnel question group record for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef4"
+            },
+            "Name": "General Questions",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A General question group record for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef5"
+            },
+            "Name": "ISP",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A ISP question group record for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef6"
+            },
+            "Name": "Building",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "A Generic Building question group for all Building Record Types"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef7"
+            },
+            "Name": "Accounting",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Accounting Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef8"
+            },
+            "Name": "Main LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Main LAN Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef9"
+            },
+            "Name": "Make Ready",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Make Ready Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef10"
+            },
+            "Name": "Parts",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Parts Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef11"
+            },
+            "Name": "Parts Warehouse",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Parts Warehouse Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef12"
+            },
+            "Name": "Preowned",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Preowned Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef13"
+            },
+            "Name": "Quick Lane",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Quick Lane Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef14"
+            },
+            "Name": "Remote COLO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Remote COLO Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef15"
+            },
+            "Name": "Impact Report",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Impact Report Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef16"
+            },
+            "Name": "Indoor Access Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Indoor Access Point Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef17"
+            },
+            "Name": "Large Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Large Scanner Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef18"
+            },
+            "Name": "MICR Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for MICR Laser Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef19"
+            },
+            "Name": "Network Copier",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Network Copier Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef20"
+            },
+            "Name": "New Coverage Area",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for New Coverage Area Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef21"
+            },
+            "Name": "Remote Corporate",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Remote Corporate Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef22"
+            },
+            "Name": "Remote LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Remote LAN Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef23"
+            },
+            "Name": "Sales",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Sales Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef24"
+            },
+            "Name": "Service",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Service Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef25"
+            },
+            "Name": "BW Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for BW Laser Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef26"
+            },
+            "Name": "Color Laser",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Color Laser Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef27"
+            },
+            "Name": "Credit Card Machine",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Credit Card Machine Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef28"
+            },
+            "Name": "Current Coverage Area",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Current Coverage Area Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef29"
+            },
+            "Name": "Desktop Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Desktop Scanner Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef30"
+            },
+            "Name": "DMS Server",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for DMS Server Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef31"
+            },
+            "Name": "F&I Impact Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for F&I Impact Printer Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef32"
+            },
+            "Name": "Fax Machine",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Fax Machine Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef33"
+            },
+            "Name": "Firewall",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Firewall Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef34"
+            },
+            "Name": "General Server",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for General Server Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef35"
+            },
+            "Name": "Body Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Body Shop Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef36"
+            },
+            "Name": "Dealership Wide",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Dealership Wide Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef37"
+            },
+            "Name": "Local LAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Local LAN Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef38"
+            },
+            "Name": "Local Corporate Office",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Local Corporate Office Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef39"
+            },
+            "Name": "Local Service Shop",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Local Service Shop Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef40"
+            },
+            "Name": "Local Showroom",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "General question Group for Local Showroom Department"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef41"
+            },
+            "Name": "Title Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Title Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef42"
+            },
+            "Name": "Warranty Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Warranty Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef43"
+            },
+            "Name": "Wholesale Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Wholesale Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef44"
+            },
+            "Name": "Wholesale Salespeople",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Wholesale Salespeople Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef45"
+            },
+            "Name": "Treasurer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Treasurer Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef46"
+            },
+            "Name": "Warehouse Worker",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Warehouse Worker Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef47"
+            },
+            "Name": "Outdoor Access Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Outdoor Access Point Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef48"
+            },
+            "Name": "Parts Scan - Barcode Label Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Scan - Barcode Label Printer Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef49"
+            },
+            "Name": "Parts Scan - Barcode Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Scan - Barcode Scanner Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef50"
+            },
+            "Name": "Parts Scan - Wireless Access Point",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Scan - Wireless Access Point Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef51"
+            },
+            "Name": "PC",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for PC Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef52"
+            },
+            "Name": "Phone",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Phone Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef53"
+            },
+            "Name": "Portable Label Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Portable Label Printer Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef54"
+            },
+            "Name": "Primary Router",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Primary Router Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef55"
+            },
+            "Name": "SDWAN",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for SDWAN Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef56"
+            },
+            "Name": "Secondary Router",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Secondary Router Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef57"
+            },
+            "Name": "Switch 12 Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Switch 12 Port Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef58"
+            },
+            "Name": "Switch 24 Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Switch 24 Port Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef59"
+            },
+            "Name": "Switch 48 Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Switch 48 Port Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef60"
+            },
+            "Name": "Switch 8 Port",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Switch 8 Port Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef61"
+            },
+            "Name": "Vehicle Scan - Barcode Label Printer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Vehicle Scan - Barcode Label Printer Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef62"
+            },
+            "Name": "Vehicle Scan - Barcode Scanner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Vehicle Scan - Barcode Scanner Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef63"
+            },
+            "Name": "Admin F&I User",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Admin F&I User Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef64"
+            },
+            "Name": "Assistant Service Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Assistant Service Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef65"
+            },
+            "Name": "Back Counter",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Back Counter Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef66"
+            },
+            "Name": "BDC Director/Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for BDC Director/Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef67"
+            },
+            "Name": "BDC Employee",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for BDC Employee Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef68"
+            },
+            "Name": "BDC User",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for BDC User Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef69"
+            },
+            "Name": "Billing Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Billing Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef70"
+            },
+            "Name": "Body Shop Advisor",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Body Shop Advisor Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef71"
+            },
+            "Name": "Body Shop Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Body Shop Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef72"
+            },
+            "Name": "Body Shop Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Body Shop Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef73"
+            },
+            "Name": "Booker",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Booker Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef74"
+            },
+            "Name": "Cashier",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Cashier Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef75"
+            },
+            "Name": "CEO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for CEO Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef76"
+            },
+            "Name": "CFO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for CFO Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef77"
+            },
+            "Name": "CIO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for CIO Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef78"
+            },
+            "Name": "Controller",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Controller Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef79"
+            },
+            "Name": "COO",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for COO Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef80"
+            },
+            "Name": "Dealer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Dealer Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef81"
+            },
+            "Name": "Delivery Driver",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Delivery Driver Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef82"
+            },
+            "Name": "Detailer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Detailer Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef83"
+            },
+            "Name": "Dispatcher",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Dispatcher Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef84"
+            },
+            "Name": "F&I Director",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for F&I Director Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef85"
+            },
+            "Name": "F&I Producer",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for F&I Producer Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef86"
+            },
+            "Name": "File/Scanning Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for File/Scanning Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef87"
+            },
+            "Name": "Fixed Ops Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Fixed Ops Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef88"
+            },
+            "Name": "Front Counter",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Front Counter Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef89"
+            },
+            "Name": "General Sales Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for General Sales Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef90"
+            },
+            "Name": "GM",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for GM Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef91"
+            },
+            "Name": "HR Director",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for HR Director Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef92"
+            },
+            "Name": "HR Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for HR Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef93"
+            },
+            "Name": "Inventory Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Inventory Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef94"
+            },
+            "Name": "IT Director",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for IT Director Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef95"
+            },
+            "Name": "Make Ready Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Make Ready Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef96"
+            },
+            "Name": "Make Ready Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Make Ready Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef97"
+            },
+            "Name": "Office Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Office Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef98"
+            },
+            "Name": "Paint Tech",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Paint Tech Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef99"
+            },
+            "Name": "Parts Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef100"
+            },
+            "Name": "Parts Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef101"
+            },
+            "Name": "Parts Receiving",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Receiving Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef102"
+            },
+            "Name": "Parts Runner",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Parts Runner Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef103"
+            },
+            "Name": "Payable Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Payable Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef104"
+            },
+            "Name": "Payroll Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Payroll Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef105"
+            },
+            "Name": "Pre-owned Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Pre-owned Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef106"
+            },
+            "Name": "Pre-owned Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Pre-owned Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef107"
+            },
+            "Name": "Pre-owned Sales Associate",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Pre-owned Sales Associate Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef108"
+            },
+            "Name": "Quick Lane Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Quick Lane Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef109"
+            },
+            "Name": "Quick Lane Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Quick Lane Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef110"
+            },
+            "Name": "Quick Lane Service Advisor",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Quick Lane Service Advisor Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef111"
+            },
+            "Name": "Quick Lane Technician",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Quick Lane Technician Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef112"
+            },
+            "Name": "Receivable Clerk",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Receivable Clerk Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef113"
+            },
+            "Name": "Sales Associate",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Sales Associate Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef114"
+            },
+            "Name": "Sales Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Sales Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef115"
+            },
+            "Name": "Sales Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Sales Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef116"
+            },
+            "Name": "Service Advisor",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Service Advisor Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef117"
+            },
+            "Name": "Service Manager",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Service Manager Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef118"
+            },
+            "Name": "Service Personnel",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Service Personnel Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef119"
+            },
+            "Name": "Shop Foreman",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Shop Foreman Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef120"
+            },
+            "Name": "Technician",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Question Group for Technician Personnel"
+        },
+        {
+            "attributes": {
+                "type": "Question_Group__c",
+                "referenceId": "Question_Group__cRef121"
+            },
+            "Name": "Yooz",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "Description__c": "Yooz Product Question Group"
+        }
+    ]
+}

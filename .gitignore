@@ -1,0 +1,6 @@
+
+.sfdx/tools/
+.sfdx/typings/
+
+.sfdx/sfdx-config.json
+logs/

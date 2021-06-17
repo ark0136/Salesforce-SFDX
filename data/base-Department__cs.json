@@ -1,0 +1,2253 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef1"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef2"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef3"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef4"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef5"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef6"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef7"
+            },
+            "Building__c": "@Building__cRef1",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef8"
+            },
+           "Building__c": "@Building__cRef2",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef9"
+            },
+           "Building__c": "@Building__cRef2",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef10"
+            },
+           "Building__c": "@Building__cRef3",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef11"
+            },
+           "Building__c": "@Building__cRef3",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef12"
+            },
+           "Building__c": "@Building__cRef3",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef13"
+            },
+           "Building__c": "@Building__cRef3",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef14"
+            },
+            "Building__c": "@Building__cRef4",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": true,
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "Yes",
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef15"
+            },
+            "Building__c": "@Building__cRef4",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Where_is_the_scanning_done__c": "Centralized",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "IN Serv Building",
+            "What_does_your_BDC_cover__c": "Appoint only",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "Dealersocket",
+            "End_of_Term_Date1__c": "2020-04-09",
+            "CDK_ELEAD__c": true,
+            "End_of_Term_Date2__c": "2020-04-09",
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": true,
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "No",
+            "Who_adds_new_units_to_stock__c": "Preowned mgr",
+            "Who_adds_used_units_to_stock__c": "Same",
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Online_Retailing_Vendor_Notes__c": "Don't Like that payments don't match",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "Do_you_separate_inventory_by_location__c": "Yes",
+            "Competitive_Inventory_Scanning_Vendors__c": "None",
+            "If_yes_name_of_Inventory_locations__c": "East Bullpen, West Lot",
+            "Which_States__c": "NM, OK",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef16"
+            },
+            "Building__c": "@Building__cRef4",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Do_you_currently_scan_deal_jackets__c": "Yes",
+            "Is_there_a_dedicated_PC_for_scanning__c": "No",
+            "Where_is_the_scanning_done__c": "At Desks",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "Service Building",
+            "What_does_your_BDC_cover__c": "Sales Follow up and Service Appts",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "VIN",
+            "End_of_Term_Date1__c": "2020-04-10",
+            "CDK_ELEAD__c": true,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": true,
+            "CDK_MVP__c": true,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": true,
+            "End_of_Term_Date8__c": "2020-04-10",
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "No",
+            "Who_adds_new_units_to_stock__c": "Accounting",
+            "Who_adds_used_units_to_stock__c": "Used Car Admin",
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Competitive_Credit_Services_Vendors__c": "700 Credit",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "Competitive_FI_Product_Sales_Vendors__c": "Dealertrack Menu",
+            "CDK_Contracting_weSign_Bundles__c": "CDK Doc Cloud Plus",
+            "Competitive_Contracting_Vendors__c": "Impact",
+            "CDK_eContracting_Integrations__c": "CDK Route One eContracting",
+            "Competitive_eContracting_Vendors__c": "Dealertrack eContracting",
+            "Do_you_separate_inventory_by_location__c": "Yes",
+            "Competitive_Inventory_Scanning_Vendors__c": "None",
+            "Which_States__c": "NM/OK",
+            "Sales_Department_Question_Notes__c": "None",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "Did_you_add_scanners_under_F_I_Equip__c": "Yes",
+            "Number_of_Handheld_Scanners__c": 1,
+            "Number_of_VIN_Barcode_Label_Printers__c": 1,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef17"
+            },
+            "Building__c": "@Building__cRef4",
+            "CDK_Connected_Store__c": false,
+            "End_of_Term_Date1__c": "2020-04-10",
+            "CDK_ELEAD__c": false,
+            "End_of_Term_Date2__c": "2020-04-10",
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "End_of_Term_Date4__c": "2020-04-10",
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": true,
+            "Competitive_Post_Payables_Vendors__c": "Other",
+            "End_of_Term_Date6__c": "2020-04-30",
+            "CDK_AP_Assist__c": true,
+            "Competitive_Make_Payments_Vendors__c": "Dealer Credit Card",
+            "CDK_Vehicle_Scan__c": false,
+            "End_of_Term_Date8__c": "2020-04-17",
+            "CDK_AR_Portal__c": true,
+            
+            "Is_the_Base_COA_the_same_across_all_Co__c": "Yes",
+            "If_no_describe__c": "2",
+            "Mall_Accounting_Multi_OEM_Single_Site__c": "No",
+            "More_than_1_OEM_in_Single_Profit_Center__c": "Yes",
+            "You_report_all_OEM_dollars_to_each_OEM__c": "No",
+            "Use_a_combined_Fin_Stmnt_across_the_org__c": "Yes",
+            "Are_you_a_fiscal_year_end_or_calendar__c": "Fiscal",
+            "Competitive_Online_Invoicing_Vendors__c": "None",
+            "CDK_ePayments__c": true,
+            "Competitive_Payment_Processor_Vendors__c": "CenPOS",
+            "CDK_Payroll_Plus__c": false,
+            "Competitive_Payroll_Vendors__c": "ADP",
+            "Payroll_Vendor_Notes__c": "Not switching",
+            "CDK_Executive_Eye__c": false,
+            "Competitive_Executive_Reporting_Vendor__c": "Axcessa",
+            "Executive_Reporting_Vendor_Notes__c": "keeping",
+            "CDK_CVR__c": true,
+            "CDK_Document_Scanning__c": "Doc Cloud Pro",
+            "Competitive_Document_Scanning_Vendors__c": "One-view",
+            "CDK_Service_Pricing__c": false,
+            "If_Multi_Site_which_OEM_is_the_base__c": "GM",
+            "Did_you_add_scanners_in_Equip_Section__c": "Yes",
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef18"
+            },
+            "Building__c": "@Building__cRef4",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Do_you_currently_scan_deal_jackets__c": "Yes",
+            "Is_there_a_dedicated_PC_for_scanning__c": "No",
+            "Where_is_the_scanning_done__c": "At Desks",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "Service",
+            "What_does_your_BDC_cover__c": "Serv appts",
+            "CDK_Connected_Store__c": true,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Online_Retailing_Vendor_Notes__c": "Don't like payments not matching",
+            "CDK_Contracting_weSign_Bundles__c": "CDK Doc Cloud Pro",
+            "Competitive_Contracting_Vendors__c": "Impact",
+            "Which_States__c": "NM ok",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "Did_you_add_scanners_under_F_I_Equip__c": "Yes",
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef19"
+            },
+            "Building__c": "@Building__cRef4",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "Is_the_Base_COA_the_same_across_all_Co__c": "Yes",
+            "Mall_Accounting_Multi_OEM_Single_Site__c": "Yes",
+            "You_report_all_OEM_dollars_to_each_OEM__c": "Yes",
+            "Use_a_combined_Fin_Stmnt_across_the_org__c": "Yes",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "Competitive_Payroll_Vendors__c": "Paycom",
+            "Payroll_Vendor_Notes__c": "Staying with Paycom",
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef20"
+            },
+           "Building__c": "@Building__cRef5",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Do_you_currently_scan_deal_jackets__c": "Yes",
+            "Is_there_a_dedicated_PC_for_scanning__c": "Yes",
+            "Where_is_the_scanning_done__c": "Centralized",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "Located in Service Build",
+            "What_does_your_BDC_cover__c": "Good",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "VIN",
+            "End_of_Term_Date1__c": "2020-04-29",
+            "CDK_ELEAD__c": true,
+            "End_of_Term_Date2__c": "2020-04-22",
+            "CDK_Connected_Lot__c": false,
+            "End_of_Term_Date3__c": "2020-04-08",
+            "CDK_Credit__c": true,
+            "End_of_Term_Date4__c": "2020-04-08",
+            "CDK_MVP__c": true,
+            "CDK_YOOZ__c": false,
+            "End_of_Term_Date5__c": "2020-04-06",
+            "End_of_Term_Date6__c": "2020-04-08",
+            "CDK_AP_Assist__c": false,
+            "End_of_Term_Date7__c": "2020-04-08",
+            "CDK_Vehicle_Scan__c": true,
+            "End_of_Term_Date8__c": "2020-04-08",
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "Yes",
+            "Who_adds_new_units_to_stock__c": "Lot Manager",
+            "Who_adds_used_units_to_stock__c": "Inventory Manager",
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Online_Retailing_Vendor_Notes__c": "Done",
+            "Showroom_Traffic_Vendor_Notes__c": "Done",
+            "Competitive_Credit_Services_Vendors__c": "700 Credit",
+            "Credit_Services_Vendor_Notes__c": "Done",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "Inventory_Vendor_Notes__c": "Done",
+            "Competitive_FI_Product_Sales_Vendors__c": "Paper",
+            "CDK_Contracting_weSign_Bundles__c": "CDK Doc Cloud Pro",
+            "Competitive_Contracting_Vendors__c": "Impact",
+            "Contracting_Vendor_Notes__c": "Done",
+            "CDK_eContracting_Integrations__c": "CDK Route One eContracting",
+            "Competitive_eContracting_Vendors__c": "Dealertrack eContracting",
+            "eContracting_Vendor_Notes__c": "Done",
+            "Do_you_separate_inventory_by_location__c": "Yes",
+            "Competitive_Inventory_Scanning_Vendors__c": "Other",
+            "Inventory_Scanning_Vendor_Notes__c": "ABC Company",
+            "If_yes_name_of_Inventory_locations__c": "Bull Pen South",
+            "Which_States__c": "OK, NM",
+            "Sales_Department_Question_Notes__c": "Good",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef21"
+            },
+           "Building__c": "@Building__cRef5",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "Any_dealer_specific_custom_F_and_I_Forms__c": "Yes",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Do_you_currently_scan_deal_jackets__c": "Yes",
+            "Is_there_a_dedicated_PC_for_scanning__c": "Yes",
+            "Where_is_the_scanning_done__c": "Centralized",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "Located in service department",
+            "What_does_your_BDC_cover__c": "Covers appointments for new car and service drive",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "VIN",
+            "End_of_Term_Date1__c": "2022-04-08",
+            "CDK_ELEAD__c": true,
+            "End_of_Term_Date2__c": "2022-04-08",
+            "CDK_Connected_Lot__c": false,
+            "End_of_Term_Date3__c": "2022-04-08",
+            "CDK_Credit__c": true,
+            "End_of_Term_Date4__c": "2021-04-08",
+            "CDK_MVP__c": true,
+            "CDK_YOOZ__c": false,
+            "End_of_Term_Date5__c": "2020-07-08",
+            "End_of_Term_Date6__c": "2026-04-08",
+            "CDK_AP_Assist__c": false,
+            "End_of_Term_Date7__c": "2020-06-08",
+            "CDK_Vehicle_Scan__c": true,
+            "End_of_Term_Date8__c": "2020-04-08",
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "No",
+            "Who_adds_new_units_to_stock__c": "Inventory clerk in accounting",
+            "Who_adds_used_units_to_stock__c": "Inventory manager in used cars",
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Online_Retailing_Vendor_Notes__c": "Doesn't like the functionality with deals being different than the desk and deal",
+            "Showroom_Traffic_Vendor_Notes__c": "Dealer doesn't like the desk in deal being different than f&I",
+            "Competitive_Credit_Services_Vendors__c": "700 Credit",
+            "Credit_Services_Vendor_Notes__c": "Wants to look at our compliance packages",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "Inventory_Vendor_Notes__c": "Staying with vauto",
+            "Competitive_FI_Product_Sales_Vendors__c": "Paper",
+            "CDK_Contracting_weSign_Bundles__c": "CDK Doc Cloud Pro",
+            "Competitive_Contracting_Vendors__c": "DocuPad",
+            "CDK_eContracting_Integrations__c": "CDK Route One eContracting",
+            "Competitive_eContracting_Vendors__c": "Dealertrack eContracting",
+            "eContracting_Vendor_Notes__c": "Switching all of econtracting to route 1",
+            "Do_you_separate_inventory_by_location__c": "Yes",
+            "Competitive_Inventory_Scanning_Vendors__c": "Other",
+            "Inventory_Scanning_Vendor_Notes__c": "Uses ABC company",
+            "If_yes_name_of_Inventory_locations__c": "Bullpen on the east side of town and used car holding pen behind make ready",
+            "Which_States__c": "Texas Oklahoma and New Mexico",
+            "Sales_Department_Question_Notes__c": "Dealer uses Stone eagle",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef22"
+            },
+           "Building__c": "@Building__cRef5",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "VIN",
+            "End_of_Term_Date1__c": "2020-04-08",
+            "CDK_ELEAD__c": true,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Online_Retailing_Vendor_Notes__c": "Don't like because payments don't match",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef23"
+            },
+           "Building__c": "@Building__cRef5",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef24"
+            },
+           "Building__c": "@Building__cRef5",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef25"
+            },
+            "Building__c": "@Building__cRef6",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "No",
+            "Do_you_process_out_of_state_deals__c": "Yes",
+            "Do_you_currently_scan_deal_jackets__c": "Yes",
+            "Is_there_a_dedicated_PC_for_scanning__c": "No",
+            "Where_is_the_scanning_done__c": "At Desks",
+            "Is_BDC_in_house_or_3rd_party__c": "In-House",
+            "If_in_house_where_is_the_BDC_located__c": "Service building",
+            "What_does_your_BDC_cover__c": "Serv appts",
+            "CDK_Connected_Store__c": true,
+            "Competitive_Showroom_Traffic_Vendors__c": "VIN",
+            "End_of_Term_Date1__c": "2020-11-09",
+            "CDK_ELEAD__c": true,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": true,
+            "CDK_MVP__c": true,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": true,
+            "CDK_AR_Portal__c": false,
+            "Do_you_have_a_scanner_at_each_location__c": "Yes",
+            
+            "Competitive_Online_Retailing_Vendors__c": "Roadster",
+            "Competitive_Credit_Services_Vendors__c": "700 Credit",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "Competitive_FI_Product_Sales_Vendors__c": "Dealertrack Menu",
+            "CDK_Contracting_weSign_Bundles__c": "CDK Doc Cloud Pro",
+            "Competitive_Contracting_Vendors__c": "Impact",
+            "CDK_eContracting_Integrations__c": "CDK Route One eContracting",
+            "Competitive_eContracting_Vendors__c": "Dealertrack eContracting",
+            "Do_you_separate_inventory_by_location__c": "Yes",
+            "Competitive_Inventory_Scanning_Vendors__c": "Starguard",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "Number_of_Handheld_Scanners__c": 2,
+            "Number_of_VIN_Barcode_Label_Printers__c": 2,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef26"
+            },
+           "Building__c": "@Building__cRef7",
+            "Offer_two_or_more_Non_OEM_Ext_Warranty__c": "Yes",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": true,
+            "CDK_Credit__c": true,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "Competitive_Credit_Services_Vendors__c": "700 Credit",
+            "Competitive_Inventory_Vendors__c": "vAuto",
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef27"
+            },
+           "Building__c": "@Building__cRef7",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "What_is_your_Total_Monthly_RO_Count__c": 200,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef28"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef29"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef30"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef31"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef32"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef33"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef34"
+            },
+            "Building__c": "@Building__cRef8",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef35"
+            },
+            "Building__c": "@Building__cRef9",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef36"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef37"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef38"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef39"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef40"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef41"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef42"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef43"
+            },
+           "Building__c": "@Building__cRef11",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef44"
+            },
+           "Building__c": "@Building__cRef10",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef45"
+            },
+           "Building__c": "@Building__cRef10",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef46"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef47"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef48"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef49"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef50"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef51"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef52"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef53"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef54"
+            },
+           "Building__c": "@Building__cRef12",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef55"
+            },
+           "Building__c": "@Building__cRef12",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef56"
+            },
+           "Building__c": "@Building__cRef13",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef57"
+            },
+           "Building__c": "@Building__cRef13",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef58"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef59"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef60"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef61"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef62"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef63"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef64"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef65"
+            },
+            "Building__c": "@Building__cRef14",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef66"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef67"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef68"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef69"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef70"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef71"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef72"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Department__c",
+                "referenceId": "Department__cRef73"
+            },
+            "Building__c": "@Building__cRef15",
+            "CDK_Connected_Store__c": false,
+            "CDK_ELEAD__c": false,
+            "CDK_Connected_Lot__c": false,
+            "CDK_Credit__c": false,
+            "CDK_MVP__c": false,
+            "CDK_YOOZ__c": false,
+            "CDK_AP_Assist__c": false,
+            "CDK_Vehicle_Scan__c": false,
+            "CDK_AR_Portal__c": false,
+            
+            "CDK_ePayments__c": false,
+            "CDK_Payroll_Plus__c": false,
+            "CDK_Executive_Eye__c": false,
+            "CDK_CVR__c": false,
+            "CDK_Service_Pricing__c": false,
+            "CDK_Text_Connect__c": false,
+            "CDK_Partscan__c": false,
+            "CDK_None__c": false,
+            "Dept_Completed__c": false
+            
+            
+        }
+    ]
+}

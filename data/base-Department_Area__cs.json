@@ -1,0 +1,1176 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef1"
+            },
+            "Name": "Make Ready Office Area",
+           
+            "Department__c": "@Department__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef2"
+            },
+            "Name": "Make Ready Shop Area",
+            
+            "Department__c": "@Department__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef3"
+            },
+            "Name": "Inventory Manager Area",
+            
+            "Department__c": "@Department__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef4"
+            },
+            "Name": "Computer Room",
+           
+         "Department__c": "@Department__cRef9"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef5"
+            },
+            "Name": "Computer Closet",
+            
+         "Department__c": "@Department__cRef9"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef6"
+            },
+            "Name": "Service Drive",
+            
+            "Department__c": "@Department__cRef13"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef7"
+            },
+            "Name": "Main Computer Room",
+            
+            "Department__c": "@Department__cRef36"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef8"
+            },
+            "Name": "Wireless LAN",
+            
+            "Department__c": "@Department__cRef36"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef9"
+            },
+            "Name": "Computer Closet",
+            
+            "Department__c": "@Department__cRef36"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef10"
+            },
+            "Name": "Warehouse Area",
+            
+         "Department__c": "@Department__cRef37"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef11"
+            },
+            "Name": "Front Counter Area",
+            
+         "Department__c": "@Department__cRef37"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef12"
+            },
+            "Name": "Back Counter Area",
+            
+         "Department__c": "@Department__cRef37"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef13"
+            },
+            "Name": "Wholesale Dept Area",
+            
+         "Department__c": "@Department__cRef37"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef14"
+            },
+            "Name": "Service Drive Area",
+            
+      "Department__c": "@Department__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef15"
+            },
+            "Name": "Service Admin Area",
+            
+      "Department__c": "@Department__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef16"
+            },
+            "Name": "Service Quick Lane Area",
+            
+      "Department__c": "@Department__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef17"
+            },
+            "Name": "Service Waiting Area",
+            
+      "Department__c": "@Department__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef18"
+            },
+            "Name": "Service Shop Area",
+            
+      "Department__c": "@Department__cRef38"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef19"
+            },
+            "Name": "General Accounting Area",
+           
+            "Department__c": "@Department__cRef39"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef20"
+            },
+            "Name": "Office Manager Area",
+            
+            "Department__c": "@Department__cRef39"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef21"
+            },
+            "Name": "HR Office Area",
+            
+            "Department__c": "@Department__cRef39"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef22"
+            },
+            "Name": "Executive Offices Area",
+            
+            "Department__c": "@Department__cRef40"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef23"
+            },
+            "Name": "Estimator Area",
+            
+          "Department__c": "@Department__cRef41"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef24"
+            },
+            "Name": "Body Shop Area",
+            
+          "Department__c": "@Department__cRef41"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef25"
+            },
+            "Name": "Body Shop Admin Area",
+            
+          "Department__c": "@Department__cRef41"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef26"
+            },
+            "Name": "Customer Lounge Area",
+            
+          "Department__c": "@Department__cRef41"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef27"
+            },
+            "Name": "Make Ready Office Area",
+           
+          "Department__c": "@Department__cRef42"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef28"
+            },
+            "Name": "Make Ready Shop Area",
+            
+          "Department__c": "@Department__cRef42"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef29"
+            },
+            "Name": "Vehicle Inventory Area",
+            
+          "Department__c": "@Department__cRef42"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef30"
+            },
+            "Name": "BDC Department Area",
+            
+          "Department__c": "@Department__cRef43"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef31"
+            },
+            "Name": "F&I Department Area",
+            
+          "Department__c": "@Department__cRef43"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef32"
+            },
+            "Name": "Inventory Manager Area",
+            
+          "Department__c": "@Department__cRef43"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef33"
+            },
+            "Name": "Showroom Area",
+            
+          "Department__c": "@Department__cRef43"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef34"
+            },
+            "Name": "Front Counter Area",
+            
+         "Department__c": "@Department__cRef44"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef35"
+            },
+            "Name": "Wholesale Dept Area",
+            
+         "Department__c": "@Department__cRef44"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef36"
+            },
+            "Name": "Warehouse Area",
+            
+         "Department__c": "@Department__cRef44"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef37"
+            },
+            "Name": "Computer Closet",
+            
+           "Department__c": "@Department__cRef45"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef38"
+            },
+            "Name": "Computer Room",
+           
+           "Department__c": "@Department__cRef45"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef39"
+            },
+            "Name": "Warehouse Area",
+            
+        "Department__c": "@Department__cRef46"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef40"
+            },
+            "Name": "Front Counter Area",
+            
+        "Department__c": "@Department__cRef46"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef41"
+            },
+            "Name": "Back Counter Area",
+            
+        "Department__c": "@Department__cRef46"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef42"
+            },
+            "Name": "Wholesale Dept Area",
+            
+        "Department__c": "@Department__cRef46"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef43"
+            },
+            "Name": "Main Computer Room",
+            
+           "Department__c": "@Department__cRef47"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef44"
+            },
+            "Name": "Computer Closet",
+            
+           "Department__c": "@Department__cRef47"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef45"
+            },
+            "Name": "Wireless LAN",
+            
+           "Department__c": "@Department__cRef47"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef46"
+            },
+            "Name": "Service Drive Area",
+            
+          "Department__c": "@Department__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef47"
+            },
+            "Name": "Service Admin Area",
+            
+          "Department__c": "@Department__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef48"
+            },
+            "Name": "Service Quick Lane Area",
+            
+          "Department__c": "@Department__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef49"
+            },
+            "Name": "Service Waiting Area",
+            
+          "Department__c": "@Department__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef50"
+            },
+            "Name": "Service Shop Area",
+            
+          "Department__c": "@Department__cRef48"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef51"
+            },
+            "Name": "General Accounting Area",
+           
+           "Department__c": "@Department__cRef49"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef52"
+            },
+            "Name": "Office Manager Area",
+            
+           "Department__c": "@Department__cRef49"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef53"
+            },
+            "Name": "HR Office Area",
+            
+           "Department__c": "@Department__cRef49"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef54"
+            },
+            "Name": "Executive Offices Area",
+            
+          "Department__c": "@Department__cRef50"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef55"
+            },
+            "Name": "Estimator Area",
+            
+            "Department__c": "@Department__cRef51"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef56"
+            },
+            "Name": "Body Shop Area",
+            
+            "Department__c": "@Department__cRef51"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef57"
+            },
+            "Name": "Body Shop Admin Area",
+            
+            "Department__c": "@Department__cRef51"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef58"
+            },
+            "Name": "Customer Lounge Area",
+            
+            "Department__c": "@Department__cRef51"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef59"
+            },
+            "Name": "Make Ready Office Area",
+           
+          "Department__c": "@Department__cRef52"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef60"
+            },
+            "Name": "Make Ready Shop Area",
+            
+          "Department__c": "@Department__cRef52"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef61"
+            },
+            "Name": "Vehicle Inventory Area",
+            
+          "Department__c": "@Department__cRef52"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef62"
+            },
+            "Name": "BDC Department Area",
+            
+         "Department__c": "@Department__cRef53"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef63"
+            },
+            "Name": "F&I Department Area",
+            
+         "Department__c": "@Department__cRef53"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef64"
+            },
+            "Name": "Inventory Manager Area",
+            
+         "Department__c": "@Department__cRef53"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef65"
+            },
+            "Name": "Showroom Area",
+            
+         "Department__c": "@Department__cRef53"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef66"
+            },
+            "Name": "Showroom Area",
+            
+          "Department__c": "@Department__cRef54"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef67"
+            },
+            "Name": "F&I Department Area",
+            
+          "Department__c": "@Department__cRef54"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef68"
+            },
+            "Name": "Computer Closet",
+            
+          "Department__c": "@Department__cRef55"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef69"
+            },
+            "Name": "Computer Closet",
+            
+          "Department__c": "@Department__cRef55"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef70"
+            },
+            "Name": "Test area ... do not delete",
+            
+          "Department__c": "@Department__cRef55"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef71"
+            },
+            "Name": "Estimator Area",
+            
+           "Department__c": "@Department__cRef56",
+            "Body_Shop_Managers__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef72"
+            },
+            "Name": "Back Counter Area",
+            
+           "Department__c": "@Department__cRef56"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef73"
+            },
+            "Name": "Service Shop Area",
+            
+           "Department__c": "@Department__cRef56",
+            "Booker__c": 1
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef74"
+            },
+            "Name": "Test area ... do not remove",
+            
+           "Department__c": "@Department__cRef56"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef75"
+            },
+            "Name": "Computer Closet",
+            
+          "Department__c": "@Department__cRef57"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef76"
+            },
+            "Name": "Wireless LAN",
+            
+          "Department__c": "@Department__cRef57"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef77"
+            },
+            "Name": "Main Computer Room",
+            
+          "Department__c": "@Department__cRef58"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef78"
+            },
+            "Name": "Wireless LAN",
+            
+          "Department__c": "@Department__cRef58"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef79"
+            },
+            "Name": "Computer Closet",
+            
+          "Department__c": "@Department__cRef58"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef80"
+            },
+            "Name": "Warehouse Area",
+            
+            "Department__c": "@Department__cRef59"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef81"
+            },
+            "Name": "Front Counter Area",
+            
+            "Department__c": "@Department__cRef59"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef82"
+            },
+            "Name": "Back Counter Area",
+            
+            "Department__c": "@Department__cRef59"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef83"
+            },
+            "Name": "Wholesale Dept Area",
+            
+            "Department__c": "@Department__cRef59"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef84"
+            },
+            "Name": "Service Drive Area",
+            
+            "Department__c": "@Department__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef85"
+            },
+            "Name": "Service Admin Area",
+            
+            "Department__c": "@Department__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef86"
+            },
+            "Name": "Service Quick Lane Area",
+            
+            "Department__c": "@Department__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef87"
+            },
+            "Name": "Service Waiting Area",
+            
+            "Department__c": "@Department__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef88"
+            },
+            "Name": "Service Shop Area",
+            
+            "Department__c": "@Department__cRef60"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef89"
+            },
+            "Name": "General Accounting Area",
+           
+            "Department__c": "@Department__cRef61"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef90"
+            },
+            "Name": "Office Manager Area",
+            
+            "Department__c": "@Department__cRef61"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef91"
+            },
+            "Name": "HR Office Area",
+            
+            "Department__c": "@Department__cRef61"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef92"
+            },
+            "Name": "Executive Offices Area",
+            
+           "Department__c": "@Department__cRef62"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef93"
+            },
+            "Name": "Estimator Area",
+            
+          "Department__c": "@Department__cRef63"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef94"
+            },
+            "Name": "Body Shop Area",
+            
+          "Department__c": "@Department__cRef63"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef95"
+            },
+            "Name": "Body Shop Admin Area",
+            
+          "Department__c": "@Department__cRef63"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef96"
+            },
+            "Name": "Customer Lounge Area",
+            
+          "Department__c": "@Department__cRef63"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef97"
+            },
+            "Name": "Make Ready Office Area",
+           
+            "Department__c": "@Department__cRef64"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef98"
+            },
+            "Name": "Make Ready Shop Area",
+            
+            "Department__c": "@Department__cRef64"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef99"
+            },
+            "Name": "Vehicle Inventory Area",
+            
+            "Department__c": "@Department__cRef64"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef100"
+            },
+            "Name": "BDC Department Area",
+            
+            "Department__c": "@Department__cRef65"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef101"
+            },
+            "Name": "F&I Department Area",
+            
+            "Department__c": "@Department__cRef65"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef102"
+            },
+            "Name": "Inventory Manager Area",
+            
+            "Department__c": "@Department__cRef65"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef103"
+            },
+            "Name": "Showroom Area",
+            
+            "Department__c": "@Department__cRef65"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef104"
+            },
+            "Name": "Main Computer Room",
+            
+            "Department__c": "@Department__cRef66"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef105"
+            },
+            "Name": "Wireless LAN",
+            
+            "Department__c": "@Department__cRef66"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef106"
+            },
+            "Name": "Computer Closet",
+            
+            "Department__c": "@Department__cRef66"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef107"
+            },
+            "Name": "Warehouse Area",
+            
+            "Department__c": "@Department__cRef67"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef108"
+            },
+            "Name": "Front Counter Area",
+            
+            "Department__c": "@Department__cRef67"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef109"
+            },
+            "Name": "Back Counter Area",
+            
+            "Department__c": "@Department__cRef67"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef110"
+            },
+            "Name": "Wholesale Dept Area",
+            
+            "Department__c": "@Department__cRef67"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef111"
+            },
+            "Name": "Service Drive Area",
+            
+           "Department__c": "@Department__cRef68"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef112"
+            },
+            "Name": "Service Admin Area",
+            
+           "Department__c": "@Department__cRef68"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef113"
+            },
+            "Name": "Service Quick Lane Area",
+            
+           "Department__c": "@Department__cRef68"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef114"
+            },
+            "Name": "Service Waiting Area",
+            
+           "Department__c": "@Department__cRef68"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef115"
+            },
+            "Name": "Service Shop Area",
+            
+           "Department__c": "@Department__cRef68"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef116"
+            },
+            "Name": "General Accounting Area",
+           
+            "Department__c": "@Department__cRef69"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef117"
+            },
+            "Name": "Office Manager Area",
+            
+            "Department__c": "@Department__cRef69"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef118"
+            },
+            "Name": "HR Office Area",
+            
+            "Department__c": "@Department__cRef69"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef119"
+            },
+            "Name": "Executive Offices Area",
+            
+            "Department__c": "@Department__cRef70"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef120"
+            },
+            "Name": "Estimator Area",
+            
+           "Department__c": "@Department__cRef71"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef121"
+            },
+            "Name": "Body Shop Area",
+            
+           "Department__c": "@Department__cRef71"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef122"
+            },
+            "Name": "Body Shop Admin Area",
+            
+           "Department__c": "@Department__cRef71"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef123"
+            },
+            "Name": "Customer Lounge Area",
+            
+           "Department__c": "@Department__cRef71"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef124"
+            },
+            "Name": "Make Ready Office Area",
+           
+            "Department__c": "@Department__cRef72"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef125"
+            },
+            "Name": "Make Ready Shop Area",
+            
+            "Department__c": "@Department__cRef72"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef126"
+            },
+            "Name": "Vehicle Inventory Area",
+            
+            "Department__c": "@Department__cRef72"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef127"
+            },
+            "Name": "BDC Department Area",
+            
+           "Department__c": "@Department__cRef73"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef128"
+            },
+            "Name": "F&I Department Area",
+            
+           "Department__c": "@Department__cRef73"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef129"
+            },
+            "Name": "Inventory Manager Area",
+            
+           "Department__c": "@Department__cRef73"
+        },
+        {
+            "attributes": {
+                "type": "Department_Area__c",
+                "referenceId": "Department_Area__cRef130"
+            },
+            "Name": "Showroom Area",
+            
+           "Department__c": "@Department__cRef73"
+        }
+    ]
+}

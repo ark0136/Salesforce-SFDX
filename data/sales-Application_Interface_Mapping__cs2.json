@@ -1,0 +1,2116 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef200"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Portable_Label_Printer",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef201"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts_Scan_Barcode_Label_Printer",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef202"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts_Scan_Barcode_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef203"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Front_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef204"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Parts_Scan_Wireless_Access_Point",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Warehouse",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef205"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "DMS_Server",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef206"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Firewall",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef207"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Back_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef208"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Executive_Offices",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef209"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Executive_Offices",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef210"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Executive_Offices",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef211"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef212"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Vehicle_Inventory",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef213"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "FandI",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef214"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Back_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef215"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Back_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef216"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Back_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef217"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "BDC_Department",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef218"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "BDC_Department",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef219"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "BDC_Department",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef220"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef221"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef222"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef223"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef224"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Office_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef225"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef226"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Office_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef227"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Office_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef228"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef229"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef230"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef231"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef232"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef233"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef234"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef235"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef236"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef237"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef238"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Vehicle_Inventory",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef239"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef240"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef241"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef242"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef243"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Vehicle_Inventory",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef244"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef245"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Quick_Lane_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef246"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef247"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Vehicle_Scan_Barcode_Label_Printer",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Vehicle_Inventory",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef248"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef249"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef250"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef251"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef252"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Drive",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef253"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef254"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Inventory_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef255"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef256"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef257"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef258"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Vehicle_Scan_Barcode_Label_Printer",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Inventory_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef259"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef260"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Waiting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef261"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Vehicle_Scan_Barcode_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Vehicle_Inventory",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef262"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "HR_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef263"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "HR_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef264"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "HR_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef265"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Inventory_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef266"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Vehicle_Scan_Barcode_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Inventory_Manager",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef267"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Front_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef268"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef269"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef270"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Network_Copier",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef271"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef272"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Office",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef273"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Make_Ready_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef274"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Front_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef275"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef276"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef277"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef278"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef279"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "BDC_Department",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef280"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef281"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef282"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef283"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef284"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Customer_Lounge",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef285"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef286"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef287"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Body_Shop_Admin",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef288"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Corporate_Controller",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef289"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Corporate_Controller",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef290"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Corporate_Controller",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef291"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Customer_Lounge",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef292"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Customer_Lounge",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef293"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Customer_Lounge",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef294"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Estimator",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef295"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Estimator",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef296"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Estimator",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef297"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Estimator",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef298"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "FandI",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef299"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "FandI",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef300"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "FandI",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef301"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Front_Counter",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef302"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned_Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef303"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned_Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef304"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "General_Server",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef305"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned_Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef306"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Preowned_Showroom",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef307"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Primary_Router",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef308"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Corporate_Controller",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef309"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Primary_Router",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_COLO_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef310"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Secondary_Router",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef311"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_12_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef312"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_24_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef313"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_48_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Main_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef314"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Switch_24_Port",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_COLO_Computer_Room",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef315"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "PC",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Quick_Lane",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef316"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "BW_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Quick_Lane",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef317"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Desktop_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Quick_Lane",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef318"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Phone",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Service_Quick_Lane",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef319"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "MICR_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef320"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Color_Laser",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef321"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Credit_Card_Machine",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef322"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "FI_Impact_Printer",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef323"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Fax_Machine",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef324"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Impact_Report",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef325"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Large_Scanner",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "General_Accounting",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "None"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef326"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "New_Coverage_Area",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wireless_LAN",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef327"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Outdoor_Access_Point",
+            "AssociatedObjectName__c": "Department_Equipment__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": false,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Wireless_LAN",
+            "LookupObjectType__c": "Department_Area__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef328"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_Showroom",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Showroom",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef329"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Accounting",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Remote_Accounting",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef330"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Preowned",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Preowned",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        },
+        {
+            "attributes": {
+                "type": "Application_Interface_Mapping__c",
+                "referenceId": "Application_Interface_Mapping__cRef331"
+            },
+            "AssociatedFieldName__c": "RecordType",
+            "AssociatedFieldValue__c": "Local_LAN",
+            "AssociatedObjectName__c": "Department__c",
+            "Consumer_Application__c": "DiscoveryPortal",
+            "IsDefaulted__c": true,
+            "LookupFieldName__c": "RecordType",
+            "LookupFieldValue__c": "Local_Preowned",
+            "LookupObjectType__c": "Building__c",
+            "Order__c": 1,
+            "Record_Creation_Mode__c": "Trigger"
+        }
+    ]
+}

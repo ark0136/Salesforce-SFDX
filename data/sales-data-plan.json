@@ -1,0 +1,130 @@
+[
+	{
+        "sobject": "Campaign",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-Campaigns_P1.json"
+        ]
+    },
+	{
+        "sobject": "Campaign",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-Campaigns_P2.json"
+        ]
+    },
+	{
+        "sobject": "Campaign",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-Campaigns_C.json"
+        ]
+    },
+	 {
+        "sobject": "Opportunity",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-Opportunitys.json"
+        ]
+    },
+	{
+        "sobject": "OpportunityLineItem",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-OpportunityLineItem.json"
+        ]
+    },
+	{
+        "sobject": "Lead",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-Leads.json"
+        ]
+    },
+	{
+        "sobject": "Systems__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-Systems__cs1.json"
+        ]
+    },
+	{
+        "sobject": "Systems__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-Systems__cs2.json"
+        ]
+    },
+	{
+        "sobject": "System_at_Dealership__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-System_at_Dealership__c.json"
+        ]
+    },
+	{
+        "sobject": "Application_Interface_Mapping__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-Application_Interface_Mapping__cs1.json"
+        ]
+    },
+	{
+        "sobject": "Application_Interface_Mapping__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-Application_Interface_Mapping__cs2.json"
+        ]
+    },
+	{
+        "sobject": "Contract",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-Contract.json"
+        ]
+    },
+		{
+        "sobject": "SubProject__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "sales-SubProject__c_P.json"
+        ]
+    },
+	{
+        "sobject": "SubProject__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-SubProject__c.json"
+        ]
+    },
+		{
+        "sobject": "ALL_Contract_Line__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-ALL_Contract_Line__c1.json"
+        ]
+    },
+	{
+        "sobject": "ALL_Contract_Line__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "sales-ALL_Contract_Line__c2.json"
+        ]
+    }
+]

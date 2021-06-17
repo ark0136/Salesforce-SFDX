@@ -1,0 +1,738 @@
+{
+   "records":[
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef1"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-11-11",
+         
+         "Name":"82016164",
+         
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET MONROEVILLE",
+         "Bill_CMF_Number__c":"76209132",
+         "CompanySigned_Name__c":"SINGH,DEVENDER",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"82016164",
+         "Original_Contract__c":"82005218",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1204125",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"996886",
+         "Deal_Id__c":"1204125",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef2"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-08-25",
+         
+         "Name":"67041249",
+         
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET MONROEVILLE",
+         "Bill_CMF_Number__c":"76209129",
+         "CompanySigned_Name__c":"MEHTRE,RAHUL",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67041249",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1199605",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"982487",
+         "Deal_Id__c":"1199605",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef3"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2019-12-24",
+         
+         "Name":"68161765",
+         
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET MONROEVILLE",
+         "Bill_CMF_Number__c":"76209129",
+         "CompanySigned_Name__c":"HULSEY,CHAD",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68161765",
+         "Sales_Type__c":"Unhook",
+         "Solution_Design_ID__c":"1186479",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"932592",
+         "Deal_Id__c":"1186479",
+         "Total_Contract_Lines__c":"46",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef4"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2019-04-22",
+         
+         "Name":"68152955",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET MONROEVILLE",
+         "Bill_CMF_Number__c":"76209129",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68152955",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"128043553",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"891495",
+         "Deal_Id__c":"128043553",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef5"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"53",
+         "Status":"Draft",
+         "CustomerSignedDate":"2019-01-28",
+         
+         "Name":"68149873",
+         
+         "ActivatedBy_Name__c":"HORAN,CLAIRE",
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET MONROEVILLE",
+         "Bill_CMF_Number__c":"76209129",
+         "CompanySigned_Name__c":"HORAN,CLAIRE",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68149869",
+         "Sales_Type__c":"Unhook",
+         "Solution_Design_ID__c":"1166634",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"876627",
+         "Deal_Id__c":"1166634",
+         "Total_Contract_Lines__c":"65",
+         "Inactive_Contract_Lines__c":"13"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef6"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"60",
+         "Status":"Draft",
+         "CustomerSignedDate":"2013-10-21",
+         
+         "Name":"68087707",
+         
+         "ActivatedBy_Name__c":"SANDERS, LAKECHIA",
+         "Bill_Account__c":"@AccountRef6",
+         "Bill_CMF_Name__c":"DAY CHEVROLET",
+         "Bill_CMF_Number__c":"33264701",
+         "CompanySigned_Name__c":"LAWSON, SUE D",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"L",
+         "Main_Contract__c":"68087707",
+         "Original_Contract__c":"68044334",
+         "Sales_Type__c":"Upgrade",
+         "Ship_CMF__c":"@CMF_Info__cRef4",
+         "Solution_Design_ID__c":"1006745",
+         "Original_NSA_Contract__c":true,
+         "Impact_Project_ID__c":"582452",
+         "Total_Contract_Lines__c":"23",
+         "Inactive_Contract_Lines__c":"6"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef7"
+         },
+         "AccountId":"@AccountRef6",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         
+         "Name":"A1166900",
+         
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"CPQ",
+         "Finance_Type__c":"C",
+         "Sales_Type__c":"Ownership Change",
+         "Original_NSA_Contract__c":false,
+         "Total_Contract_Lines__c":"3",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef8"
+         },
+         "AccountId":"@AccountRef4",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-12-21",
+         
+         "Name":"67045151",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef4",
+         "Bill_CMF_Name__c":"POWER OF BOWSERS",
+         "Bill_CMF_Number__c":"33201001",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67045151",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"135296521",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"1002048",
+         "Deal_Id__c":"135296521",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef9"
+         },
+         "AccountId":"@AccountRef4",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-12-07",
+         
+         "Name":"67044656",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef4",
+         "Bill_CMF_Name__c":"POWER OF BOWSERS",
+         "Bill_CMF_Number__c":"33201001",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67044656",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"999149",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef10"
+         },
+         "AccountId":"@AccountRef4",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2017-08-30",
+         
+         "Name":"82011187",
+         
+         "ActivatedBy_Name__c":"TOUCH,CHERI",
+         "Bill_Account__c":"@AccountRef4",
+         "Bill_CMF_Name__c":"POWER OF BOWSERS",
+         "Bill_CMF_Number__c":"76199823",
+         "CompanySigned_Name__c":"TOUCH,CHERI",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"82011187",
+         "Sales_Type__c":"Unhook",
+         "Solution_Design_ID__c":"1137124",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"772061",
+         "Total_Contract_Lines__c":"10",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef11"
+         },
+         "AccountId":"@AccountRef4",
+         "ContractTerm":"19",
+         "Status":"Draft",
+         "CustomerSignedDate":"2016-12-08",
+         
+         "Name":"68117716",
+         
+         "ActivatedBy_Name__c":"WHITE,ROBERT",
+         "Bill_Account__c":"@AccountRef4",
+         "Bill_CMF_Name__c":"POWER OF BOWSERS",
+         "Bill_CMF_Number__c":"33201001",
+         "CompanySigned_Name__c":"WHITE,ROBERT",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"L",
+         "Main_Contract__c":"68117713",
+         "Sales_Type__c":"Unhook",
+         "Ship_CMF__c":"@CMF_Info__cRef4",
+         "Solution_Design_ID__c":"1116115",
+         "Original_NSA_Contract__c":true,
+         "Impact_Project_ID__c":"735900",
+         "Total_Contract_Lines__c":"8",
+         "Inactive_Contract_Lines__c":"8"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef12"
+         },
+         "AccountId":"@AccountRef4",
+         "ContractTerm":"121",
+         "Status":"Draft",
+         "CustomerSignedDate":"2012-11-30",
+         
+         "Name":"68080675",
+         
+         "ActivatedBy_Name__c":"YOUNG, RACHELL D",
+         "Bill_Account__c":"@AccountRef4",
+         "Bill_CMF_Name__c":"POWER OF BOWSERS",
+         "Bill_CMF_Number__c":"33201001",
+         "CompanySigned_Name__c":"LANE,DEBORA",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"L",
+         "Main_Contract__c":"68080675",
+         "Original_Contract__c":"68026338",
+         "Sales_Type__c":"Upgrade",
+         "Ship_CMF__c":"@CMF_Info__cRef15",
+         "Solution_Design_ID__c":"1011437",
+         "Original_NSA_Contract__c":true,
+         "Impact_Project_ID__c":"534503",
+         "Deal_Id__c":"1011437",
+         "Total_Contract_Lines__c":"19",
+         "Inactive_Contract_Lines__c":"2"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef13"
+         },
+         "AccountId":"@AccountRef5",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2019-02-05",
+         
+         "Name":"68150269",
+         
+         "ActivatedBy_Name__c":"SLOAN,TAMMY",
+         "Bill_Account__c":"@AccountRef5",
+         "Bill_CMF_Name__c":"BOWSER TRUCK/BODY SHOP",
+         "Bill_CMF_Number__c":"76154178",
+         "CompanySigned_Name__c":"SINGH,JASWANT",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68150269",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1167687",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"878161",
+         "Deal_Id__c":"1167687",
+         "Total_Contract_Lines__c":"2",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef14"
+         },
+         "AccountId":"@AccountRef5",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2019-02-05",
+         
+         "Name":"68150270",
+         
+         "ActivatedBy_Name__c":"SLOAN,TAMMY",
+         "Bill_Account__c":"@AccountRef5",
+         "Bill_CMF_Name__c":"BOWSER TRUCK/BODY SHOP",
+         "Bill_CMF_Number__c":"76154178",
+         "CompanySigned_Name__c":"SINGH,JASWANT",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68150269",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1167687",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"878161",
+         "Deal_Id__c":"1167687",
+         "Total_Contract_Lines__c":"2",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef15"
+         },
+         "AccountId":"@AccountRef5",
+         "ContractTerm":"60",
+         "Status":"Draft",
+         "CustomerSignedDate":"2012-11-30",
+         
+         "Name":"68080684",
+         
+         "ActivatedBy_Name__c":"YOUNG, RACHELL D",
+         "Bill_Account__c":"@AccountRef5",
+         "Bill_CMF_Name__c":"BOWSER TRUCK/BODY SHOP",
+         "Bill_CMF_Number__c":"76154178",
+         "CompanySigned_Name__c":"LANE,DEBORA",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"L",
+         "Main_Contract__c":"68080675",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Ship_CMF__c":"@CMF_Info__cRef39",
+         "Solution_Design_ID__c":"1011437",
+         "Original_NSA_Contract__c":true,
+         "Impact_Project_ID__c":"534503",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef16"
+         },
+         "AccountId":"@AccountRef3",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2021-01-28",
+         
+         "Name":"67046226",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef3",
+         "Bill_CMF_Name__c":"BOWSER HYUNDAI",
+         "Bill_CMF_Number__c":"76026375",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67046226",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"135827531",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"1007231",
+         "Deal_Id__c":"135827531",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef17"
+         },
+         "AccountId":"@AccountRef3",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-12-15",
+         
+         "Name":"67044939",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef3",
+         "Bill_CMF_Name__c":"BOWSER HYUNDAI",
+         "Bill_CMF_Number__c":"76026375",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67044939",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"135200310",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"1000671",
+         "Deal_Id__c":"135200310",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef18"
+         },
+         "AccountId":"@AccountRef3",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-08-17",
+         
+         "Name":"67041039",
+         
+         "Bill_Account__c":"@AccountRef3",
+         "Bill_CMF_Name__c":"BOWSER HYUNDAI",
+         "Bill_CMF_Number__c":"76026375",
+         "CompanySigned_Name__c":"SINGH,DEVENDER",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67041038",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1199179",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"981321",
+         "Deal_Id__c":"1199179",
+         "Total_Contract_Lines__c":"2",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef19"
+         },
+         "AccountId":"@AccountRef3",
+         "ContractTerm":"60",
+         "Status":"Draft",
+         "CustomerSignedDate":"2006-11-03",
+         
+         "Name":"68039531",
+         
+         "ActivatedBy_Name__c":"MCGARRY,KIM",
+         "Bill_Account__c":"@AccountRef3",
+         "Bill_CMF_Name__c":"BOWSER HYUNDAI",
+         "Bill_CMF_Number__c":"76026375",
+         "CompanySigned_Name__c":"TRUESDALE,AESHA",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68039530",
+         "Sales_Type__c":"Unhook",
+         "Ship_CMF__c":"@CMF_Info__cRef15",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"62363",
+         "Total_Contract_Lines__c":"3",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef20"
+         },
+         "AccountId":"@AccountRef3",
+         "ContractTerm":"48",
+         "Status":"Draft",
+         "CustomerSignedDate":"2005-10-31",
+         
+         "Name":"68033800",
+         
+         "ActivatedBy_Name__c":"RUTLEDGE, MATTHEW M",
+         "Bill_Account__c":"@AccountRef3",
+         "Bill_CMF_Name__c":"BOWSER HYUNDAI",
+         "Bill_CMF_Number__c":"76026375",
+         "CompanySigned_Name__c":"TRUESDALE,AESHA",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68033796",
+         "Sales_Type__c":"Unhook",
+         "Ship_CMF__c":"@CMF_Info__cRef15",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"7585",
+         "Total_Contract_Lines__c":"3",
+         "Inactive_Contract_Lines__c":"3"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef21"
+         },
+         "AccountId":"@AccountRef2",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-08-20",
+         
+         "Name":"67041119",
+         
+         "ActivatedBy_Name__c":"NAIR,RAJESH",
+         "Bill_Account__c":"@AccountRef2",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET",
+         "Bill_CMF_Number__c":"76208085",
+         "CompanySigned_Name__c":"MEHTRE,RAHUL",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67041119",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"1196350",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"981802",
+         "Deal_Id__c":"1196350",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef22"
+         },
+         "AccountId":"@AccountRef2",
+         "ContractTerm":"36",
+         "Status":"Draft",
+         "CustomerSignedDate":"2020-08-07",
+         
+         "Name":"67040622",
+         
+         "ActivatedBy_Name__c":"UPLOAD,AUTO",
+         "Bill_Account__c":"@AccountRef2",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET",
+         "Bill_CMF_Number__c":"76208085",
+         "CompanySigned_Name__c":"UPLOAD,AUTO",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"67040622",
+         "Original_Contract__c":"68080675",
+         "Sales_Type__c":"Addon",
+         "Solution_Design_ID__c":"133435677",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"979268",
+         "Deal_Id__c":"133435677",
+         "Total_Contract_Lines__c":"1",
+         "Inactive_Contract_Lines__c":"1"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef23"
+         },
+         "AccountId":"@AccountRef2",
+         "ContractTerm":"60",
+         "Status":"Draft",
+         "CustomerSignedDate":"2016-07-07",
+         
+         "Name":"68112693",
+         
+         "ActivatedBy_Name__c":"SOURCE,OTHER SALES",
+         "Bill_Account__c":"@AccountRef2",
+         "Bill_CMF_Name__c":"RON LEWIS FORD",
+         "Bill_CMF_Number__c":"33257701",
+         "CompanySigned_Name__c":"OGE, PRASHANT",
+         "Created_Name__c":"PRASHANT OGE",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68112693",
+         "Sales_Type__c":"Unhook",
+         "Ship_CMF__c":"@CMF_Info__cRef5",
+         "Original_NSA_Contract__c":true,
+         "Impact_Project_ID__c":"713277",
+         "Total_Contract_Lines__c":"3",
+         "Inactive_Contract_Lines__c":"3"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef24"
+         },
+         "AccountId":"@AccountRef2",
+         "ContractTerm":"55",
+         "Status":"Draft",
+         "CustomerSignedDate":"2018-11-30",
+         
+         "Name":"68147625",
+         
+         "ActivatedBy_Name__c":"HORAN,CLAIRE",
+         "Bill_Account__c":"@AccountRef2",
+         "Bill_CMF_Name__c":"BOWSER CHEVROLET",
+         "Bill_CMF_Number__c":"76208085",
+         "CompanySigned_Name__c":"PALMER,CINDY",
+         "Created_Name__c":"SYSTEM",
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"ARNA",
+         "Finance_Type__c":"C",
+         "Main_Contract__c":"68147620",
+         "Sales_Type__c":"Unhook",
+         "Solution_Design_ID__c":"1164182",
+         "Original_NSA_Contract__c":false,
+         "Impact_Project_ID__c":"867209",
+         "Deal_Id__c":"1164182",
+         "Total_Contract_Lines__c":"14",
+         "Inactive_Contract_Lines__c":"14"
+      },
+      {
+         "attributes":{
+            "type":"Contract",
+            "referenceId":"ContractRef25"
+         },
+         "AccountId":"@AccountRef2",
+         "ContractTerm":"12",
+         "Status":"Draft",
+         
+         "Name":"A1303810",
+         
+         "Data_Source__c":"CPQ",
+         "External_Data_Source__c":"CPQ",
+         "Finance_Type__c":"C",
+         "Sales_Type__c":"Cancellation/Pre-Activation Cancellation",
+         "Original_NSA_Contract__c":false,
+         "Total_Contract_Lines__c":"4",
+         "Inactive_Contract_Lines__c":"1"
+      }
+   ]
+}

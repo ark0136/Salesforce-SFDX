@@ -1,0 +1,723 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef1"
+            },
+            "Name": "General Network",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "All Network/Standard Network;\r\nAll Network/Business Solution;\r\nIPNS/Access: Circuits and Circuit Bandwidth;\r\nNetwork/Security Solutions: 3rd Party Services, Get Wired, IP Video, and VPN:Professional Services, Support, & Hardware.",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN5712;FIN6003",
+            "PRH_Level_2_Code__c": "FIN5748;FIN6300;FIN6014;FIN6016;FIN6019",
+            "PRH_Level_3_Code__c": "FIN6164;FIN6165;FIN6163;FIN6878;FIN7192"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef2"
+            },
+            "Name": "Implementation Default",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "IMPLEMENTATION",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN4839",
+            "PRH_Rollup_Summary_Code__c": "FIN5000;FIN5030;FIN5060;FIN5100;FIN5110;FIN5170;FIN5190;FIN5632;FIN5730;FIN5010;FIN5050;FIN5020;FIN6341;FIN5672;FIN5140;FIN5090",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFIN5000;FIN5030;FIN5060;FIN5100;FIN5110;FIN5170;FIN5190;FIN5632;FIN5730;FIN5010;FIN5050;FIN5020;FIN6341;FIN5672;FIN5140;FIN5090"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef3"
+            },
+            "Name": "Heavy Equipment General",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "Heavy Equipment",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN5160"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef4"
+            },
+            "Name": "Wireless",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "All Network/Mobile Access.",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN6004"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef5"
+            },
+            "Name": "IPT Telephony",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "All Core Telephony/Communication Solutions;\nCore Telephony/Integrated Solutions: Attendant Console, Call Intelligence, Call Recording, Call Tracking, Contact Center, CTI Desktop, Paging, Telepresence.",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN5722",
+            "PRH_Level_2_Code__c": "FIN5848;FIN5852;FIN5856;FIN5857;FIN5849;FIN5850;FIN5851;FIN5853"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef6"
+            },
+            "Name": "Fax Connect",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "IPNS/Integrated Solutions/Fax Connect; \nCore Telephony/Integrated Solutions/Network Fax",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5855;FIN5757"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef7"
+            },
+            "Name": "UTM",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "Network/Security Solutions: Unified Threat Manager, Security Appliance, and Security Bundles.",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6020;FIN6810;FIN6301",
+            "PRH_Level_3_Code__c": "FIN6824"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef8"
+            },
+            "Name": "CustomerTouch General",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CUSTOMER TOUCH",
+            "Long_Description__c": "This is the product grouping for all products that are CustomerTouch",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5854;FIN5758",
+            "PRH_Rollup_Summary_Code__c": "FIN5683",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFIN5683"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef9"
+            },
+            "Name": "Text Connect",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "IPNS/Integrated Solutions/Text Connect; \r\nCore Telephony/Integrated Solutions/Text Connect",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5759;FIN5858",
+            "PRH_Level_3_Code__c": "FIN7147;FIN7191"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef10"
+            },
+            "Name": "Web Filter",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "Network/Security Solutions/Internet Manager.",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6018"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef11"
+            },
+            "Name": "Remote Access",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "Network/Security Solutions: HRAS, Firewall, and VPN: Security Center.",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6017;FIN6015",
+            "PRH_Level_3_Code__c": "FIN5718"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef12"
+            },
+            "Name": "Undefined",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "PRH_Flag__c": false
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef13"
+            },
+            "Name": "Peripherals",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "NS-DOC SCANNING;NS-ENTERPRISE WORKSTATION;NS-F&I FORMS PRINTERS;NS-F&I SW LICENSE FEE;NS-LASER HARDWARE;NS-MS OFFICE;NS-NON-LASER PRINTING;NS-OTHER EQUIPMENT;NS-PARTSCAN HARDWARE;NS-PSA SW LICENSE FEE;NS-SCANNING EQUIPMENT\t;NS-SERVICE",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN4150;FIN6401",
+            "PRH_Level_2_Code__c": "FIN1425;FIN297;FIN4219;FIN4220;FIN4221;FIN4223;FIN5475;FIN5684;FIN4225",
+            "PRH_Level_3_Code__c": "FIN1284;FIN2925;FIN4731;FIN4806;FIN5658;FIN6970;FIN6973;FIN4755;FIN4757;FIN4691;FIN5579;FIN945;FIN946;FIN7190"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef14"
+            },
+            "Name": "Auto Check",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN384"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef15"
+            },
+            "Name": "Credit Check",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN383;FIN387;FIN382"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef16"
+            },
+            "Name": "Compliance",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN385"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef17"
+            },
+            "Name": "CV Integ",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN386;FIN389"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef18"
+            },
+            "Name": "Financial Services General",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN5090"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef19"
+            },
+            "Name": "Doc Cloud",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "IMPLEMENTATION",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6913;FIN6912;FIN6344;FIN6343"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef20"
+            },
+            "Name": "CDK Service",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "IMPLEMENTATION",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN5633;FIN5634"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef21"
+            },
+            "Name": "Power SEO",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6225"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef22"
+            },
+            "Name": "Executive Eye",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN7013"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef23"
+            },
+            "Name": "Internet Manager Conversion",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN7225"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef24"
+            },
+            "Name": "Cloud Connect",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6885"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef25"
+            },
+            "Name": "Cloud Connect",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN7029"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef26"
+            },
+            "Name": "Laser Replacement",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "RPA BOT",
+            "PRH_Flag__c": false,
+            "Sales_Code__c": "LRP"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef27"
+            },
+            "Name": "Network Protect",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN7044"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef28"
+            },
+            "Name": "Do Not Process",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN6907;FIN6908;FIN6909;FIN6911;FIN6989;FIN6990;FIN6992;FIN6993;FIN6994;FIN6995;FIN7026;FIN6910",
+            "PRH_Rollup_Summary_Code__c": "FIN5070;FIN5130;FIN5080;FIN6934",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFIN5070;FIN5130;FIN5080;FIN6934"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef29"
+            },
+            "Name": "Appointment",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5635"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef30"
+            },
+            "Name": "Connected Lot",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6197"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef31"
+            },
+            "Name": "Consumer Credit Online",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "CREDIT SERVICES",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN7007"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef32"
+            },
+            "Name": "Network Protect",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "Network Protect",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN7044"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef33"
+            },
+            "Name": "Heavy Equipment Peripherals",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "Heavy Equipment",
+            "Long_Description__c": "PFW Peripherals (formerly ICD products)",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN3833;FIN3851;FIN3866;FIN3867;FIN3874;FIN3875;FIN3878;FIN3879;FIN3880;FIN3881;FIN3882;FIN3884;FIN3885;FIN3886;FIN3887;FIN3937;FIN5733"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef34"
+            },
+            "Name": "IPNS Telephony",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "TECHNOLOGY ENGINEERING SOLUTIONS",
+            "Long_Description__c": "All IPNS/Communication Solutions.\nIPNS/Integrated Solutions: Application Bundles, Call Intelligence, Call Recording, Call Tracking, CTI Desktop.",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN5746",
+            "PRH_Level_2_Code__c": "FIN5752;FIN5753;FIN5754;FIN5755;FIN5756"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef35"
+            },
+            "Name": "Connected Store",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN7074"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef36"
+            },
+            "Name": "CRM",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN291"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef37"
+            },
+            "Name": "Dash - DMS",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Description__c": "Core Applications",
+            "PRH_Rollup_Description__c": "Dash Solution"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef38"
+            },
+            "Name": "Desking",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN292"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef39"
+            },
+            "Name": "Digital Contracting",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN6398"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef40"
+            },
+            "Name": "Drive - DMS",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Description__c": "Core Applications",
+            "PRH_Rollup_Description__c": "Baseline"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef41"
+            },
+            "Name": "ERO",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN4200"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef42"
+            },
+            "Name": "F&I Results",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN5110",
+            "PRH_Rollup_Summary_Code_Unique__c": "MarketingFIN5110"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef43"
+            },
+            "Name": "Inspect",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5637"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef44"
+            },
+            "Name": "Lane",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5638"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef45"
+            },
+            "Name": "Lightspeed - DMS",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Description__c": "CORE APPLICATIONS",
+            "PRH_Rollup_Description__c": "Recreation"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef46"
+            },
+            "Name": "MenuVantage",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN15"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef47"
+            },
+            "Name": "MenuVantage Platinum",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6888"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef48"
+            },
+            "Name": "New Lot Intelligence",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5600"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef49"
+            },
+            "Name": "One Eighty",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN5730",
+            "PRH_Rollup_Summary_Code_Unique__c": "MarketingFIN5730"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef50"
+            },
+            "Name": "PartScan",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN4191"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef51"
+            },
+            "Name": "PFW - DMS",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Description__c": "Core Applications",
+            "PRH_Rollup_Description__c": "PFW"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef52"
+            },
+            "Name": "Sales Velocity",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN6196"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef53"
+            },
+            "Name": "Tech Workbench",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN4205"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef54"
+            },
+            "Name": "Used Lot Intelligence",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5689"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef55"
+            },
+            "Name": "Vehicle Exchange",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN5606"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef56"
+            },
+            "Name": "VehicleScan",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_2_Code__c": "FIN4198"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef57"
+            },
+            "Name": "Customer Touch",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN5683",
+            "PRH_Rollup_Summary_Code_Unique__c": "MarketingFIN5683"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef58"
+            },
+            "Name": "Advertising",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN494"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef59"
+            },
+            "Name": "Websites",
+            "RecordTypeId": "0120b000000h0StAAI",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN499"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef60"
+            },
+            "Name": "Executive Eye",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "IMPLEMENTATION",
+            "PRH_Flag__c": false,
+            "PRH_Rollup_Summary_Code__c": "FIN7012",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFIN7012"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef61"
+            },
+            "Name": "Implementation Misc",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "IMPLEMENTATION",
+            "PRH_Flag__c": false,
+            "PRH_Level_1_Code__c": "FIN208;FIN9975;FIN9977;FIN9978;FIN9979;FIN9976",
+            "PRH_Rollup_Summary_Code__c": "FIN5140",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFIN5140"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef62"
+            },
+            "Name": "eLead Sales",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "eLead",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN7171;FIN7172;FIN7178;FIN7169;FIN7170;FIN7173;FIN7177"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef63"
+            },
+            "Name": "eLead Service",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "eLead",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN7184"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef64"
+            },
+            "Name": "eLead DMS Integration",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "eLead",
+            "PRH_Flag__c": false,
+            "PRH_Level_3_Code__c": "FIN7176"
+        },
+        {
+            "attributes": {
+                "type": "CDK_Product__c",
+                "referenceId": "CDK_Product__cRef65"
+            },
+            "Name": "eLead DMS Misc",
+            "RecordTypeId": "0120b000000h0SsAAI",
+            "Install_Group__c": "eLead",
+            "PRH_Flag__c": true,
+            "PRH_Rollup_Summary_Code__c": "FINUnknown",
+            "PRH_Rollup_Summary_Code_Unique__c": "ImplementationFINUnknown"
+        }
+    ]
+}

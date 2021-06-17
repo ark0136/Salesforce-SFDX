@@ -1,0 +1,118 @@
+[
+    {
+        "sobject": "Site_Type__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "base-Site_Type__c.json"
+        ]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Account1.json"
+        ]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Account2.json"
+        ]
+    },
+	{
+        "sobject": "CMF_Info__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-CMF_Info__cs1.json",
+			"base-CMF_Info__cs2.json",
+			"base-CMF_Info__cs3.json",
+			"base-CMF_Info__cs4.json",
+			"base-CMF_Info__cs5.json"
+        ]
+    },
+	{
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Contacts.json"
+        ]
+    },
+	{
+        "sobject": "Account_Team__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Account_Team__cs.json"
+        ]
+    },
+	{
+        "sobject": "Building__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Building1__cs.json"
+        ]
+    },
+	{
+        "sobject": "Building__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Building2__cs.json"
+        ]
+    },
+	 {
+        "sobject": "Department__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department__cs.json"
+        ]
+    },
+	{
+        "sobject": "Department_Area__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department_Area__cs.json"
+        ]
+    },
+	{
+        "sobject": "Department_Equipment__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department_Equipment1__cs.json"
+        ]
+    },
+	{
+        "sobject": "Department_Equipment__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department_Equipment2__cs.json"
+        ]
+    },
+	{
+        "sobject": "Department_Equipment__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department_Equipment3__cs.json"
+        ]
+    },
+	{
+        "sobject": "Department_Equipment__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "base-Department_Equipment4__cs.json"
+        ]
+    }
+]

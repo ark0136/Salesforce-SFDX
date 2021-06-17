@@ -1,0 +1,3064 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef1"
+            },
+            "Name": "Wynne Systms - RentalResult",
+            "Vendor_Code__c": "WYN",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000105",
+            "SLXSystem_ID__c": "S00000000125",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Wynne Systms - RentalResult-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef2"
+            },
+            "Name": "RealTime - Accounting Solutions",
+            "Vendor_Code__c": "RTM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000106",
+            "SLXSystem_ID__c": "S00000000126",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RealTime - Accounting Solutions-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef3"
+            },
+            "Name": "Reynolds & Reynolds - ERA IGNITE",
+            "Default_System_Software__c": "ERA Ignite",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QC0000000009",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - ERA IGNITE-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef4"
+            },
+            "Name": "Dominion - ASP",
+            "Default_System_Software__c": "DMX",
+            "Vendor_Code__c": "DOM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000103",
+            "SLXSystem_ID__c": "S00000000122",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dominion - ASP-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef5"
+            },
+            "Name": "CAR Research XRM",
+            "Vendor_Code__c": "CRX",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000032",
+            "SLXSystem_ID__c": "S00000000051",
+            "Type__c": "CRM",
+            "Migration_ID__c": "CAR Research XRM-CRM_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef6"
+            },
+            "Name": "SureFire Solutions - SureFire DMS",
+            "Vendor_Code__c": "SFS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000117",
+            "SLXSystem_ID__c": "S00000000140",
+            "Type__c": "DMS",
+            "Migration_ID__c": "SureFire Solutions - SureFire DMS-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef7"
+            },
+            "Name": "CDK PFW - no DMS contract part of CDK group",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000108",
+            "SLXSystem_ID__c": "S00000000128",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - no DMS contract part of CDK group-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef8"
+            },
+            "Name": "HTC Horry Telephone Co - HTC Horry Telephone",
+            "Vendor_Code__c": "HTC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000055",
+            "SLXSystem_ID__c": "S00000000074",
+            "Type__c": "Phone",
+            "Migration_ID__c": "HTC Horry Telephone Co - HTC Horry Telephone-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef9"
+            },
+            "Name": "Inter-Tel - Axxess",
+            "Vendor_Code__c": "INT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000056",
+            "SLXSystem_ID__c": "S00000000075",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Inter-Tel - Axxess-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef10"
+            },
+            "Name": "Inter-Tel - Unknown",
+            "Vendor_Code__c": "INT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000057",
+            "SLXSystem_ID__c": "S00000000076",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Inter-Tel - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef11"
+            },
+            "Name": "ITT - Odyssey",
+            "Vendor_Code__c": "ITT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000058",
+            "SLXSystem_ID__c": "S00000000077",
+            "Type__c": "Phone",
+            "Migration_ID__c": "ITT - Odyssey-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef12"
+            },
+            "Name": "Iwatsu Omega - Iwatsu",
+            "Vendor_Code__c": "IWO",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000059",
+            "SLXSystem_ID__c": "S00000000078",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Iwatsu Omega - Iwatsu-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef13"
+            },
+            "Name": "Jate Communications - Jate Communications",
+            "Vendor_Code__c": "JATE",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000060",
+            "SLXSystem_ID__c": "S00000000079",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Jate Communications - Jate Communications-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef14"
+            },
+            "Name": "Key System US - Atlas Digital",
+            "Vendor_Code__c": "KEY",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000061",
+            "SLXSystem_ID__c": "S00000000080",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Key System US - Atlas Digital-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef15"
+            },
+            "Name": "Lucent - Lucent",
+            "Vendor_Code__c": "LUC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000062",
+            "SLXSystem_ID__c": "S00000000081",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Lucent - Lucent-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef16"
+            },
+            "Name": "Master Communication - Master Communication",
+            "Vendor_Code__c": "MCI",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000063",
+            "SLXSystem_ID__c": "S00000000082",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Master Communication - Master Communication-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef17"
+            },
+            "Name": "Meridian - Meridian",
+            "Vendor_Code__c": "MDN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000064",
+            "SLXSystem_ID__c": "S00000000083",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Meridian - Meridian-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef18"
+            },
+            "Name": "Merlin-Legend - Merlin-Legend",
+            "Vendor_Code__c": "MEL",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000065",
+            "SLXSystem_ID__c": "S00000000084",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Merlin-Legend - Merlin-Legend-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef19"
+            },
+            "Name": "Mytel - Mytel",
+            "Vendor_Code__c": "MYT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000066",
+            "SLXSystem_ID__c": "S00000000085",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Mytel - Mytel-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef20"
+            },
+            "Name": "Mytel - Unknown",
+            "Vendor_Code__c": "MYT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000067",
+            "SLXSystem_ID__c": "S00000000086",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Mytel - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef21"
+            },
+            "Name": "N Telos - N Telos",
+            "Vendor_Code__c": "NTEL",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000068",
+            "SLXSystem_ID__c": "S00000000087",
+            "Type__c": "Phone",
+            "Migration_ID__c": "N Telos - N Telos-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef22"
+            },
+            "Name": "NEC - NEC",
+            "Vendor_Code__c": "NEC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000069",
+            "SLXSystem_ID__c": "S00000000088",
+            "Type__c": "Phone",
+            "Migration_ID__c": "NEC - NEC-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef23"
+            },
+            "Name": "NEC - Unknown",
+            "Vendor_Code__c": "NEC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000070",
+            "SLXSystem_ID__c": "S00000000089",
+            "Type__c": "Phone",
+            "Migration_ID__c": "NEC - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef24"
+            },
+            "Name": "Networks - Networks",
+            "Vendor_Code__c": "NET",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000071",
+            "SLXSystem_ID__c": "S00000000090",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Networks - Networks-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef25"
+            },
+            "Name": "Nitsuko - Nitsuko",
+            "Vendor_Code__c": "NIT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000072",
+            "SLXSystem_ID__c": "S00000000091",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nitsuko - Nitsuko-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef26"
+            },
+            "Name": "Norstar - Norstar",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000073",
+            "SLXSystem_ID__c": "S00000000092",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Norstar - Norstar-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef27"
+            },
+            "Name": "Norstar - Unknown",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000074",
+            "SLXSystem_ID__c": "S00000000093",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Norstar - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef28"
+            },
+            "Name": "Nortel - Meridian or Norstar",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000075",
+            "SLXSystem_ID__c": "S00000000094",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nortel - Meridian or Norstar-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef29"
+            },
+            "Name": "Nortel - Unknown",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000076",
+            "SLXSystem_ID__c": "S00000000095",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nortel - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef30"
+            },
+            "Name": "Pac-West - ASP",
+            "Vendor_Code__c": "PAW",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000077",
+            "SLXSystem_ID__c": "S00000000096",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Pac-West - ASP-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef31"
+            },
+            "Name": "Paetec - Paetec",
+            "Vendor_Code__c": "PTC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000078",
+            "SLXSystem_ID__c": "S00000000097",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Paetec - Paetec-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef32"
+            },
+            "Name": "Panasonic - DBS",
+            "Vendor_Code__c": "PAN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000079",
+            "SLXSystem_ID__c": "S00000000098",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Panasonic - DBS-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef33"
+            },
+            "Name": "PBX - PBX",
+            "Vendor_Code__c": "PBX",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000080",
+            "SLXSystem_ID__c": "S00000000099",
+            "Type__c": "Phone",
+            "Migration_ID__c": "PBX - PBX-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef34"
+            },
+            "Name": "Proprietary Phone - Proprietary",
+            "Vendor_Code__c": "PRT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000081",
+            "SLXSystem_ID__c": "S00000000100",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Proprietary Phone - Proprietary-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef35"
+            },
+            "Name": "Samsung - Samsung",
+            "Vendor_Code__c": "SAM",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000082",
+            "SLXSystem_ID__c": "S00000000101",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Samsung - Samsung-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef36"
+            },
+            "Name": "3-Com - NBX",
+            "Vendor_Code__c": "TCOM",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000033",
+            "SLXSystem_ID__c": "S00000000052",
+            "Type__c": "Phone",
+            "Migration_ID__c": "3-Com - NBX-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef37"
+            },
+            "Name": "Advance - Advance",
+            "Vendor_Code__c": "ADV",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000034",
+            "SLXSystem_ID__c": "S00000000053",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Advance - Advance-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef38"
+            },
+            "Name": "Alltel - Alltel",
+            "Vendor_Code__c": "ATL",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000035",
+            "SLXSystem_ID__c": "S00000000054",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Alltel - Alltel-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef39"
+            },
+            "Name": "AT&T - AT&T",
+            "Vendor_Code__c": "ATT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000036",
+            "SLXSystem_ID__c": "S00000000055",
+            "Type__c": "Phone",
+            "Migration_ID__c": "AT&T - AT&T-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef40"
+            },
+            "Name": "AtCom - AtCom",
+            "Vendor_Code__c": "ATC",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000037",
+            "SLXSystem_ID__c": "S00000000056",
+            "Type__c": "Phone",
+            "Migration_ID__c": "AtCom - AtCom-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef41"
+            },
+            "Name": "Avaya - Definity and Merlin",
+            "Vendor_Code__c": "AVA",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000038",
+            "SLXSystem_ID__c": "S00000000057",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Avaya - Definity and Merlin-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef42"
+            },
+            "Name": "Avaya - Unknown",
+            "Vendor_Code__c": "AVA",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000039",
+            "SLXSystem_ID__c": "S00000000058",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Avaya - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef43"
+            },
+            "Name": "BCS - BCS",
+            "Vendor_Code__c": "BCS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000040",
+            "SLXSystem_ID__c": "S00000000059",
+            "Type__c": "Phone",
+            "Migration_ID__c": "BCS - BCS-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef44"
+            },
+            "Name": "BellSouth - BellSouth",
+            "Vendor_Code__c": "BELL",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000041",
+            "SLXSystem_ID__c": "S00000000060",
+            "Type__c": "Phone",
+            "Migration_ID__c": "BellSouth - BellSouth-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef45"
+            },
+            "Name": "Centrex - Centrex",
+            "Vendor_Code__c": "CEN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000042",
+            "SLXSystem_ID__c": "S00000000061",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Centrex - Centrex-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef46"
+            },
+            "Name": "Cisco - Avid",
+            "Vendor_Code__c": "CIS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000043",
+            "SLXSystem_ID__c": "S00000000062",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Cisco - Avid-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef47"
+            },
+            "Name": "Comdial - Comdial",
+            "Vendor_Code__c": "COM",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000044",
+            "SLXSystem_ID__c": "S00000000063",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Comdial - Comdial-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef48"
+            },
+            "Name": "CTS - CTS",
+            "Vendor_Code__c": "CTS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000045",
+            "SLXSystem_ID__c": "S00000000064",
+            "Type__c": "Phone",
+            "Migration_ID__c": "CTS - CTS-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef49"
+            },
+            "Name": "Digital - Digital",
+            "Vendor_Code__c": "DIG",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000046",
+            "SLXSystem_ID__c": "S00000000065",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Digital - Digital-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef50"
+            },
+            "Name": "ESI-LPM Telephone - ESI-LPM Telephone",
+            "Vendor_Code__c": "ESI",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000047",
+            "SLXSystem_ID__c": "S00000000066",
+            "Type__c": "Phone",
+            "Migration_ID__c": "ESI-LPM Telephone - ESI-LPM Telephone-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef51"
+            },
+            "Name": "Executone - Executone",
+            "Vendor_Code__c": "EXE",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000048",
+            "SLXSystem_ID__c": "S00000000067",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Executone - Executone-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef52"
+            },
+            "Name": "Executone - Unknown",
+            "Vendor_Code__c": "EXE",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000049",
+            "SLXSystem_ID__c": "S00000000068",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Executone - Unknown-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef53"
+            },
+            "Name": "EXO Communications - EXO",
+            "Vendor_Code__c": "EXO",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000050",
+            "SLXSystem_ID__c": "S00000000069",
+            "Type__c": "Phone",
+            "Migration_ID__c": "EXO Communications - EXO-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef54"
+            },
+            "Name": "FiberNet - FiberNet",
+            "Vendor_Code__c": "FNET",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000051",
+            "SLXSystem_ID__c": "S00000000070",
+            "Type__c": "Phone",
+            "Migration_ID__c": "FiberNet - FiberNet-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef55"
+            },
+            "Name": "Frontier - Frontier",
+            "Vendor_Code__c": "FTR",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000052",
+            "SLXSystem_ID__c": "S00000000071",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Frontier - Frontier-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef56"
+            },
+            "Name": "Fujitsu - Flashwave",
+            "Vendor_Code__c": "FUJ",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000053",
+            "SLXSystem_ID__c": "S00000000072",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Fujitsu - Flashwave-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef57"
+            },
+            "Name": "Global Telephone - Global Telephone",
+            "Vendor_Code__c": "GLT",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000054",
+            "SLXSystem_ID__c": "S00000000073",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Global Telephone - Global Telephone-Phone_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef58"
+            },
+            "Name": "DP Solutions - Vibe",
+            "Vendor_Code__c": "DPS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000104",
+            "SLXSystem_ID__c": "S00000000124",
+            "Type__c": "DMS",
+            "Migration_ID__c": "DP Solutions - Vibe-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef59"
+            },
+            "Name": "Serti - ASP",
+            "Vendor_Code__c": "SRT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA007UT9",
+            "SLXSystem_ID__c": "QYXGKA000AP6",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Serti - ASP-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef60"
+            },
+            "Name": "RIMMS - RS6000",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000026",
+            "SLXSystem_ID__c": "S00000000041",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - RS6000-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef61"
+            },
+            "Name": "RIMMS - NCR",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000025",
+            "SLXSystem_ID__c": "S00000000040",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - NCR-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef62"
+            },
+            "Name": "RIMMS - IBM",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000024",
+            "SLXSystem_ID__c": "S00000000039",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - IBM-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef63"
+            },
+            "Name": "Unknown - Unknown",
+            "Vendor_Code__c": "UNK",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000028",
+            "SLXSystem_ID__c": "S00000000045",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Unknown - Unknown-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef64"
+            },
+            "Name": "Unknown - Unknown",
+            "Vendor_Code__c": "UNK",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000027",
+            "SLXSystem_ID__c": "S00000000044",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Unknown - Unknown-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef65"
+            },
+            "Name": "Vin Solutions - MotoSnap",
+            "Vendor_Code__c": "VSM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000031",
+            "SLXSystem_ID__c": "S00000000050",
+            "Type__c": "CRM",
+            "Migration_ID__c": "Vin Solutions - MotoSnap-CRM_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef66"
+            },
+            "Name": "Microsoft - Navision Extended",
+            "Default_System_Software__c": "Navision Extended",
+            "Vendor_Code__c": "MSN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000030",
+            "SLXSystem_ID__c": "S00000000048",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Microsoft - Navision Extended-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef67"
+            },
+            "Name": "Microsoft - Navision Professional",
+            "Default_System_Software__c": "Navision Professional",
+            "Vendor_Code__c": "MSN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000030",
+            "SLXSystem_ID__c": "S00000000047",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Microsoft - Navision Professional-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef68"
+            },
+            "Name": "Dealer Software Associates - DSAparts",
+            "Default_System_Software__c": "DSAparts",
+            "Vendor_Code__c": "DSA",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000029",
+            "SLXSystem_ID__c": "S00000000046",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dealer Software Associates - DSAparts-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef69"
+            },
+            "Name": "Microsoft - Navision Standard",
+            "Default_System_Software__c": "Navision Standard",
+            "Vendor_Code__c": "MSN",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000030",
+            "SLXSystem_ID__c": "S00000000049",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Microsoft - Navision Standard-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef70"
+            },
+            "Name": "Autofunds - ASP",
+            "Vendor_Code__c": "AASP",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000121",
+            "SLXSystem_ID__c": "S00000000145",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Autofunds - ASP-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef71"
+            },
+            "Name": "CDK eLead",
+            "Vendor_Code__c": "ADPE",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "Q10000000002",
+            "Type__c": "CRM",
+            "Migration_ID__c": "CDK eLead-CRM_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef72"
+            },
+            "Name": "CDK - Lightspeed PCLAN",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000112",
+            "SLXSystem_ID__c": "S00000000135",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - Lightspeed PCLAN-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef73"
+            },
+            "Name": "CDK - Lightspeed ASP",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "PFW",
+            "SLXVendor_ID__c": "V00000000112",
+            "SLXSystem_ID__c": "S00000000134",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - Lightspeed ASP-DMS_PFW:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef74"
+            },
+            "Name": "CDK - Lightspeed ASP",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "V00000000102",
+            "SLXSystem_ID__c": "S00000000121",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - Lightspeed ASP-DMS_NAAT:PRD",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef75"
+            },
+            "Name": "Karmak/Rinfo - Director Series",
+            "Vendor_Code__c": "KAR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYK",
+            "SLXSystem_ID__c": "QADPSA031V7K",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Karmak/Rinfo - Director Series-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2005-07-15"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef76"
+            },
+            "Name": "Karmak/Rinfo - RS6000",
+            "Vendor_Code__c": "KAR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYK",
+            "SLXSystem_ID__c": "QYXGKA000AV3",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Karmak/Rinfo - RS6000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef77"
+            },
+            "Name": "KCSI - RS6000",
+            "Vendor_Code__c": "KCSI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AZC",
+            "SLXSystem_ID__c": "QYXGKA000AV3",
+            "Type__c": "DMS",
+            "Migration_ID__c": "KCSI - RS6000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef78"
+            },
+            "Name": "L'Autopac - Impak 2001",
+            "Vendor_Code__c": "LAP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY5",
+            "SLXSystem_ID__c": "QADPSA030DUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "L'Autopac - Impak 2001-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2005-04-28"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef79"
+            },
+            "Name": "PBS - PCLAN",
+            "Vendor_Code__c": "PBS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYW",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "PBS - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef80"
+            },
+            "Name": "Adam - PCLAN",
+            "Vendor_Code__c": "ADA",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXF",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Adam - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef81"
+            },
+            "Name": "CDK - 8800",
+            "Default_System_Software__c": "Elite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA000AN7",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 8800-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef82"
+            },
+            "Name": "CDK - 9500",
+            "Default_System_Software__c": "Drive",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA00HJCG",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 9500-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2002-05-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef83"
+            },
+            "Name": "CDK - AS400",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef84"
+            },
+            "Name": "CDK - ASP",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QADPSA01VSNX",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - ASP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2004-01-08"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef85"
+            },
+            "Name": "CDK - DSI",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA007W9E",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - DSI-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2001-05-22"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef86"
+            },
+            "Name": "CDK - Lightspeed PCLAN",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QADPSA032AZC",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - Lightspeed PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2005-08-05"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef87"
+            },
+            "Name": "CDK ARG - ASP",
+            "Vendor_Code__c": "ARG",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXZ",
+            "SLXSystem_ID__c": "QADPSA01VSNX",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK ARG - ASP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2004-01-08"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef88"
+            },
+            "Name": "Auto Flexilog - PCLAN",
+            "Vendor_Code__c": "AFX",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA007UT7",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Auto Flexilog - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2001-05-09",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef89"
+            },
+            "Name": "Autobase - PCLAN",
+            "Vendor_Code__c": "AUB",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AZR",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Autobase - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef90"
+            },
+            "Name": "Autocomplete - PCLAN",
+            "Default_System_Software__c": "Profit Max",
+            "Vendor_Code__c": "AUC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489J",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Autocomplete - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef91"
+            },
+            "Name": "Automate - PCLAN",
+            "Vendor_Code__c": "AUM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489I",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Automate - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef92"
+            },
+            "Name": "Automotive Computer Systems - AS400",
+            "Vendor_Code__c": "ACS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXH",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Automotive Computer Systems - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef93"
+            },
+            "Name": "Autopower - PCLAN",
+            "Vendor_Code__c": "AUP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA031TAN",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Autopower - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-07-13",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef94"
+            },
+            "Name": "Autosoft - PCLAN",
+            "Vendor_Code__c": "AUT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXM",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Autosoft - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef95"
+            },
+            "Name": "Business Vision Inc. - Adv SC",
+            "Vendor_Code__c": "BVI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489K",
+            "SLXSystem_ID__c": "QYXGKA000AQN",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Business Vision Inc. - Adv SC-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef96"
+            },
+            "Name": "Business Vision Inc. - DPX200",
+            "Vendor_Code__c": "BVI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489K",
+            "SLXSystem_ID__c": "QYXGKA000ATR",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Business Vision Inc. - DPX200-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef97"
+            },
+            "Name": "Business Vision Inc. - PCLAN",
+            "Vendor_Code__c": "BVI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489K",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Business Vision Inc. - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef98"
+            },
+            "Name": "CarBiz - Visual Cat",
+            "Vendor_Code__c": "CBZ",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA014APL",
+            "SLXSystem_ID__c": "QADPSA014APM",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CarBiz - Visual Cat-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2003-09-04",
+            "SLX_Sys_CreateDate__c": "2003-09-04"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef99"
+            },
+            "Name": "Conxsys - PCLAN",
+            "Vendor_Code__c": "CNX",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489L",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Conxsys - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef100"
+            },
+            "Name": "Daewoo - PCLAN",
+            "Vendor_Code__c": "DAW",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA004CA4",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Daewoo - PCLAN-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef101"
+            },
+            "Name": "Data Consultants Services - SDMS",
+            "Vendor_Code__c": "DCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXR",
+            "SLXSystem_ID__c": "QYXGKA00485N",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Data Consultants Services - SDMS-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef102"
+            },
+            "Name": "Dealer Information Systems - AS400",
+            "Vendor_Code__c": "DIS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXU",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dealer Information Systems - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef103"
+            },
+            "Name": "Dealer Pro - PCLAN",
+            "Vendor_Code__c": "DPR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA005IQP",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dealer Pro - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2001-02-12",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef104"
+            },
+            "Name": "Dealer Software, Inc. (DSI) - PCLAN",
+            "Vendor_Code__c": "DSI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXX",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dealer Software, Inc. (DSI) - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef105"
+            },
+            "Name": "Delta Sigma - IBM",
+            "Vendor_Code__c": "DSM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489M",
+            "SLXSystem_ID__c": "QYXGKA000AU7",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Delta Sigma - IBM-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef106"
+            },
+            "Name": "DPC System - PCLAN",
+            "Vendor_Code__c": "DPC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA01WJM3",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "DPC System - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2004-01-14",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef107"
+            },
+            "Name": "Dubuque Data Services - IBM",
+            "Vendor_Code__c": "DDS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXY",
+            "SLXSystem_ID__c": "QYXGKA000AU7",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dubuque Data Services - IBM-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef108"
+            },
+            "Name": "IDS - PCLAN",
+            "Vendor_Code__c": "IDS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA030BIM",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "IDS - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-04-26",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef109"
+            },
+            "Name": "Infinity - AS400",
+            "Default_System_Software__c": "Netfinity",
+            "Vendor_Code__c": "INF",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY7",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Infinity - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef110"
+            },
+            "Name": "Jarvis - PCLAN",
+            "Vendor_Code__c": "JAR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY0",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Jarvis - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef111"
+            },
+            "Name": "Karmak/Rinfo - AS400",
+            "Vendor_Code__c": "KAR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYK",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Karmak/Rinfo - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef112"
+            },
+            "Name": "Karmak/Rinfo - Dec Alpha",
+            "Vendor_Code__c": "KAR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYK",
+            "SLXSystem_ID__c": "QYXGKA004KQT",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Karmak/Rinfo - Dec Alpha-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-05-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef113"
+            },
+            "Name": "L'Autopac - PCLAN",
+            "Vendor_Code__c": "LAP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY5",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "L'Autopac - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef114"
+            },
+            "Name": "Lexus - AS400",
+            "Vendor_Code__c": "LXS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY6",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Lexus - AS400-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef115"
+            },
+            "Name": "DealerBuilt - PCLAN",
+            "Default_System_Software__c": "Lightyear",
+            "Vendor_Code__c": "LGHT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02YUZE",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "DealerBuilt - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-02-17",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef116"
+            },
+            "Name": "Magik - PCLAN",
+            "Vendor_Code__c": "MAG",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00G7PO",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Magik - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-03-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef117"
+            },
+            "Name": "MAI - AS400",
+            "Vendor_Code__c": "MAI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489N",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "MAI - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef118"
+            },
+            "Name": "Mannheim - PCLAN",
+            "Default_System_Software__c": "Mannheim Tracker",
+            "Vendor_Code__c": "MTR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA03DY1V",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Mannheim - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-11-06",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef119"
+            },
+            "Name": "Manual - Manual",
+            "Vendor_Code__c": "MAN",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AY8",
+            "SLXSystem_ID__c": "QYXGKA00485I",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Manual - Manual-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef120"
+            },
+            "Name": "Masitech - PCLAN",
+            "Vendor_Code__c": "MAS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00G7PP",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Masitech - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-03-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef121"
+            },
+            "Name": "MCI - PCLAN",
+            "Vendor_Code__c": "MCI",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA039L80",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "MCI - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-05-03",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef122"
+            },
+            "Name": "Meadows - PCLAN",
+            "Vendor_Code__c": "MEA",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA026MQA",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Meadows - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2004-02-26",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef123"
+            },
+            "Name": "MPK Automotive Systems - PCLAN",
+            "Vendor_Code__c": "MPK",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA03PDR7",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "MPK Automotive Systems - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2008-08-05",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef124"
+            },
+            "Name": "CDK - 88SDMS",
+            "Default_System_Software__c": "Elite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA00486L",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 88SDMS-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-24"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef125"
+            },
+            "Name": "CDK - 9200",
+            "Default_System_Software__c": "w.e.b. Suite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA000AS0",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 9200-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef126"
+            },
+            "Name": "CDK - 92SDMS",
+            "Default_System_Software__c": "w.e.b. Suite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA004867",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 92SDMS-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-03"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef127"
+            },
+            "Name": "CDK - 9300",
+            "Default_System_Software__c": "w.e.b. Suite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA000ANL",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 9300-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef128"
+            },
+            "Name": "CDK - 9400",
+            "Default_System_Software__c": "Drive",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA00G1AR",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 9400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2002-01-11"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef129"
+            },
+            "Name": "CDK - 94SDMS",
+            "Default_System_Software__c": "w.e.b. Suite",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QADPSA02CFRG",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - 94SDMS-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2004-03-22"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef130"
+            },
+            "Name": "CDK - Projicar",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA005A9O",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - Projicar-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-11-28"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef131"
+            },
+            "Name": "CDK - SDMS",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QYXGKA00485N",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - SDMS-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef132"
+            },
+            "Name": "CDK - w.e.b. Box",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXE",
+            "SLXSystem_ID__c": "QADPSA0325LC",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK - w.e.b. Box-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2006-01-12"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef133"
+            },
+            "Name": "CDK Alliance - ASP",
+            "Vendor_Code__c": "ADPA",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA004864",
+            "SLXSystem_ID__c": "QADPSA01VSNX",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK Alliance - ASP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2004-01-08"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef134"
+            },
+            "Name": "CDK Alliance - PCLAN",
+            "Vendor_Code__c": "ADPA",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA004864",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK Alliance - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef135"
+            },
+            "Name": "CDK ARG - AS400",
+            "Vendor_Code__c": "ARG",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXZ",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK ARG - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef136"
+            },
+            "Name": "CDK ARG - S36",
+            "Vendor_Code__c": "ARG",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXZ",
+            "SLXSystem_ID__c": "QADPSA03NOZF",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK ARG - S36-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2008-05-01"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef137"
+            },
+            "Name": "CDK ATS - ATS88",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AZ1",
+            "SLXSystem_ID__c": "QYXGKA004KN3",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK ATS - ATS88-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-05-04"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef138"
+            },
+            "Name": "CDK/Projicar - PR586",
+            "Vendor_Code__c": "ADP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYF",
+            "SLXSystem_ID__c": "QYXGKA000AOB",
+            "Type__c": "DMS",
+            "Migration_ID__c": "CDK/Projicar - PR586-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef139"
+            },
+            "Name": "Applied Computer Solutions - PCLAN",
+            "Vendor_Code__c": "APS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02YUZG",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Applied Computer Solutions - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-02-17",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef140"
+            },
+            "Name": "Dealertrack - ASP",
+            "Vendor_Code__c": "ARK",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA0081UI",
+            "SLXSystem_ID__c": "QADPSA01VSNX",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Dealertrack - ASP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2001-05-24",
+            "SLX_Sys_CreateDate__c": "2004-01-08"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef141"
+            },
+            "Name": "RIMMS - NCR",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYI",
+            "SLXSystem_ID__c": "QYXGKA000AUM",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - NCR-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef142"
+            },
+            "Name": "RIMMS - RS6000",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYI",
+            "SLXSystem_ID__c": "QYXGKA000AV3",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - RS6000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef143"
+            },
+            "Name": "Mytel - Unknown",
+            "Vendor_Code__c": "MYT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02UFGK",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Mytel - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2004-07-09",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef144"
+            },
+            "Name": "N Telos - N Telos",
+            "Vendor_Code__c": "NTEL",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA03B3RC",
+            "SLXSystem_ID__c": "QADPSA03B3RQ",
+            "Type__c": "Phone",
+            "Migration_ID__c": "N Telos - N Telos-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-07-10",
+            "SLX_Sys_CreateDate__c": "2006-07-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef145"
+            },
+            "Name": "NEC - NEC",
+            "Vendor_Code__c": "NEC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA032WLW",
+            "SLXSystem_ID__c": "QADPSA032WLV",
+            "Type__c": "Phone",
+            "Migration_ID__c": "NEC - NEC-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-08-19",
+            "SLX_Sys_CreateDate__c": "2005-08-19"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef146"
+            },
+            "Name": "NEC - Unknown",
+            "Vendor_Code__c": "NEC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA032WLW",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "NEC - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-08-19",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef147"
+            },
+            "Name": "Networks - Networks",
+            "Vendor_Code__c": "NET",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA03B3RF",
+            "SLXSystem_ID__c": "QADPSA03B3RT",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Networks - Networks-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-07-10",
+            "SLX_Sys_CreateDate__c": "2006-07-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef148"
+            },
+            "Name": "PCI Financial Systems - PCLAN",
+            "Vendor_Code__c": "PMX",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02ZB76",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "PCI Financial Systems - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-03-09",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef149"
+            },
+            "Name": "Procede - PCLAN",
+            "Vendor_Code__c": "PRC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA00YFVY",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Procede - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2003-08-19",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef150"
+            },
+            "Name": "Proprietary - PCLAN",
+            "Vendor_Code__c": "PRO",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00486I",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Proprietary - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef151"
+            },
+            "Name": "ProQuest - B&H",
+            "Vendor_Code__c": "PRQ",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AXJ",
+            "SLXSystem_ID__c": "QYXGKA000ATA",
+            "Type__c": "DMS",
+            "Migration_ID__c": "ProQuest - B&H-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef152"
+            },
+            "Name": "Quorum - PCLAN",
+            "Vendor_Code__c": "QUO",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489O",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Quorum - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef153"
+            },
+            "Name": "Reynolds & Reynolds - Adv GS",
+            "Default_System_Software__c": "ERA Ignite",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QCZO8A00126N",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - Adv GS-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2003-05-09"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef154"
+            },
+            "Name": "Reynolds & Reynolds - Adv HP",
+            "Default_System_Software__c": "ERA ES",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QYXGKA0053RE",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - Adv HP-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-10-04"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef155"
+            },
+            "Name": "Rinax - PCLAN",
+            "Vendor_Code__c": "RIN",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA033G0N",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Rinax - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-09-08",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef156"
+            },
+            "Name": "SAP - PCLAN",
+            "Vendor_Code__c": "SAP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA014AAM",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "SAP - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2003-09-04",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef157"
+            },
+            "Name": "Serti - AS400",
+            "Vendor_Code__c": "SRT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA007UT8",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Serti - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2001-05-09",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef158"
+            },
+            "Name": "Serti - PCLAN",
+            "Default_System_Software__c": "SDSWin",
+            "Vendor_Code__c": "SRT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA007UT8",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Serti - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2001-05-09",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef159"
+            },
+            "Name": "Silk Systems - PCLAN",
+            "Vendor_Code__c": "SLK",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA034Y4Z",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Silk Systems - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-11-14",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef160"
+            },
+            "Name": "Nitsuko - Nitsuko",
+            "Vendor_Code__c": "NIT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02TF83",
+            "SLXSystem_ID__c": "QADPSA02TF82",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nitsuko - Nitsuko-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2004-06-23",
+            "SLX_Sys_CreateDate__c": "2004-06-23"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef161"
+            },
+            "Name": "Norstar - Norstar",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA030PIX",
+            "SLXSystem_ID__c": "QADPSA030PJ0",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Norstar - Norstar-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-05-16",
+            "SLX_Sys_CreateDate__c": "2005-05-16"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef162"
+            },
+            "Name": "Norstar - Unknown",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA030PIX",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Norstar - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-05-16",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef163"
+            },
+            "Name": "Nortel - Meridian or Norstar",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA011P6Z",
+            "SLXSystem_ID__c": "QYXGKA011P6S",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nortel - Meridian or Norstar-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-10-29",
+            "SLX_Sys_CreateDate__c": "2002-10-29"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef164"
+            },
+            "Name": "Systems 2000 - PCLAN",
+            "Vendor_Code__c": "SYS2K",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA03HZJT",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Systems 2000 - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2007-06-18",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef165"
+            },
+            "Name": "TIM - PCLAN",
+            "Vendor_Code__c": "TIM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA00489P",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "TIM - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef166"
+            },
+            "Name": "Toogood - Choiceware",
+            "Vendor_Code__c": "TGD",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA030LCD",
+            "SLXSystem_ID__c": "QADPSA030LCE",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Toogood - Choiceware-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-05-10",
+            "SLX_Sys_CreateDate__c": "2005-05-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef167"
+            },
+            "Name": "Toyota - AS400",
+            "Default_System_Software__c": "TIME 2K",
+            "Vendor_Code__c": "TOY",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYP",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Toyota - AS400-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef168"
+            },
+            "Name": "Nortel - Unknown",
+            "Vendor_Code__c": "NOR",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA011P6Z",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Nortel - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-10-29",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef169"
+            },
+            "Name": "Reynolds & Reynolds - Adv S",
+            "Default_System_Software__c": "ERA XT",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QYXGKA000AQM",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - Adv S-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef170"
+            },
+            "Name": "Reynolds & Reynolds - ASP",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QADPSA01VSNX",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - ASP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2004-01-08"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef171"
+            },
+            "Name": "Reynolds & Reynolds - Bull Vehilog",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QYXGKA0048AV",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - Bull Vehilog-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-03-07"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef172"
+            },
+            "Name": "Reynolds & Reynolds - Coin",
+            "Vendor_Code__c": "R&R",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYH",
+            "SLXSystem_ID__c": "QYXGKA000AQO",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Reynolds & Reynolds - Coin-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef173"
+            },
+            "Name": "Richer Systems - PCLAN",
+            "Vendor_Code__c": "RCH",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA0055MG",
+            "SLXSystem_ID__c": "QYXGKA000AUQ",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Richer Systems - PCLAN-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-10-17",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef174"
+            },
+            "Name": "RIMMS - IBM",
+            "Vendor_Code__c": "RMS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYI",
+            "SLXSystem_ID__c": "QYXGKA000AU7",
+            "Type__c": "DMS",
+            "Migration_ID__c": "RIMMS - IBM-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef175"
+            },
+            "Name": "Toyota - TIME 2K",
+            "Vendor_Code__c": "TOY",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYP",
+            "SLXSystem_ID__c": "QYXGKA000AVY",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Toyota - TIME 2K-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef176"
+            },
+            "Name": "Universal Computer System - 9000 EX2",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QADPSA034Y4M",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - 9000 EX2-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2005-11-14"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef177"
+            },
+            "Name": "Universal Computer System - 9000MP",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA007W98",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - 9000MP-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2001-05-21"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef178"
+            },
+            "Name": "Universal Computer System - 9370",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA007W99",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - 9370-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2001-05-21"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef179"
+            },
+            "Name": "Pac-West - ASP",
+            "Vendor_Code__c": "PAW",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA033WHA",
+            "SLXSystem_ID__c": "QADPSA033WHG",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Pac-West - ASP-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-09-23",
+            "SLX_Sys_CreateDate__c": "2005-09-23"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef180"
+            },
+            "Name": "Paetec - Paetec",
+            "Vendor_Code__c": "PTC",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA0392ID",
+            "SLXSystem_ID__c": "QADPSA0392OL",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Paetec - Paetec-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-04-10",
+            "SLX_Sys_CreateDate__c": "2006-04-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef181"
+            },
+            "Name": "Panasonic - DBS",
+            "Vendor_Code__c": "PAN",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA011P72",
+            "SLXSystem_ID__c": "QYXGKA011P6V",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Panasonic - DBS-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-10-29",
+            "SLX_Sys_CreateDate__c": "2002-10-29"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef182"
+            },
+            "Name": "PBX - PBX",
+            "Vendor_Code__c": "PBX",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA0392IK",
+            "SLXSystem_ID__c": "QADPSA0392OQ",
+            "Type__c": "Phone",
+            "Migration_ID__c": "PBX - PBX-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2006-04-10",
+            "SLX_Sys_CreateDate__c": "2006-04-10"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef183"
+            },
+            "Name": "Universal Computer System - AIM",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA000AQ2",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - AIM-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef184"
+            },
+            "Name": "Universal Computer System - ES 9000",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA007W9A",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - ES 9000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2001-05-21"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef185"
+            },
+            "Name": "Universal Computer System - IBM 7000",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA00485E",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - IBM 7000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-02-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef186"
+            },
+            "Name": "Universal Computer System - Rainbow",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA0048AA",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - Rainbow-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-03-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef187"
+            },
+            "Name": "Proprietary Phone - Proprietary",
+            "Vendor_Code__c": "PRT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA033NZS",
+            "SLXSystem_ID__c": "QADPSA033NZR",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Proprietary Phone - Proprietary-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-09-16",
+            "SLX_Sys_CreateDate__c": "2005-09-16"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef188"
+            },
+            "Name": "Samsung - Samsung",
+            "Vendor_Code__c": "SAM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA033BTB",
+            "SLXSystem_ID__c": "QADPSA033BTG",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Samsung - Samsung-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-09-02",
+            "SLX_Sys_CreateDate__c": "2005-09-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef189"
+            },
+            "Name": "Siemens Rolm - CBX",
+            "Vendor_Code__c": "SIE",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA011P6W",
+            "SLXSystem_ID__c": "QYXGKA011P6P",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Siemens Rolm - CBX-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-10-29",
+            "SLX_Sys_CreateDate__c": "2002-10-29"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef190"
+            },
+            "Name": "Siemens Rolm - Unknown",
+            "Vendor_Code__c": "SIE",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA011P6W",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Siemens Rolm - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2002-10-29",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef191"
+            },
+            "Name": "Universal Computer System - T1",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA0048A9",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - T1-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-03-02"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef192"
+            },
+            "Name": "Universal Computer System - TI1500",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QADPSA03NOZL",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - TI1500-DMS_NAAT:PRD",
+            "Active__c": false,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2008-05-01"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef193"
+            },
+            "Name": "Universal Computer System - TI5000",
+            "Vendor_Code__c": "UCS",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AYS",
+            "SLXSystem_ID__c": "QYXGKA000AQ8",
+            "Type__c": "DMS",
+            "Migration_ID__c": "Universal Computer System - TI5000-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef194"
+            },
+            "Name": "VCT - AS400",
+            "Vendor_Code__c": "VCT",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QYXGKA000AZM",
+            "SLXSystem_ID__c": "QYXGKA000AP5",
+            "Type__c": "DMS",
+            "Migration_ID__c": "VCT - AS400-DMS_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2000-01-25",
+            "SLX_Sys_CreateDate__c": "2000-01-25"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef195"
+            },
+            "Name": "3-Com - NBX",
+            "Vendor_Code__c": "TCOM",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA033FBF",
+            "SLXSystem_ID__c": "QADPSA033FBH",
+            "Type__c": "Phone",
+            "Migration_ID__c": "3-Com - NBX-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-09-07",
+            "SLX_Sys_CreateDate__c": "2005-09-07"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef196"
+            },
+            "Name": "CDK - IP - Enterprise",
+            "Vendor_Code__c": "ADPIP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02Y4TQ",
+            "SLXSystem_ID__c": "QADPSA02Y4BQ",
+            "Type__c": "Phone",
+            "Migration_ID__c": "CDK - IP - Enterprise-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-01-12",
+            "SLX_Sys_CreateDate__c": "2005-01-11"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef197"
+            },
+            "Name": "CDK - IP - Express",
+            "Vendor_Code__c": "ADPIP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02Y4TQ",
+            "SLXSystem_ID__c": "QADPSA02Y4BP",
+            "Type__c": "Phone",
+            "Migration_ID__c": "CDK - IP - Express-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-01-12",
+            "SLX_Sys_CreateDate__c": "2005-01-11"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef198"
+            },
+            "Name": "CDK - IP - Hosted",
+            "Vendor_Code__c": "ADPIP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02Y4TQ",
+            "SLXSystem_ID__c": "QADPSA03M78M",
+            "Type__c": "Phone",
+            "Migration_ID__c": "CDK - IP - Hosted-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-01-12",
+            "SLX_Sys_CreateDate__c": "2008-02-13"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef199"
+            },
+            "Name": "CDK - Unknown",
+            "Vendor_Code__c": "ADPIP",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02Y4TQ",
+            "SLXSystem_ID__c": "QADPSA034NNA",
+            "Type__c": "Phone",
+            "Migration_ID__c": "CDK - Unknown-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2005-01-12",
+            "SLX_Sys_CreateDate__c": "2005-10-31"
+        },
+        {
+            "attributes": {
+                "type": "Systems__c",
+                "referenceId": "Systems__cRef200"
+            },
+            "Name": "Advance - Advance",
+            "Vendor_Code__c": "ADV",
+            "Segment_Code__c": "NAAT",
+            "SLXVendor_ID__c": "QADPSA02SCTS",
+            "SLXSystem_ID__c": "QADPSA02SCTR",
+            "Type__c": "Phone",
+            "Migration_ID__c": "Advance - Advance-Phone_NAAT:PRD",
+            "Active__c": true,
+            "SLX_Vendor_CreateDate__c": "2004-06-08",
+            "SLX_Sys_CreateDate__c": "2004-06-08"
+        }
+    ]
+}

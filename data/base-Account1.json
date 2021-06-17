@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Bowser",
+            "BillingCountry": "United States",
+            "ShippingCountry": "United States",
+            "ShippingStreet": ",",
+            "Key_Rep__c": "00540000001oBBIAA2",
+            "Site_Type__c": "@Site_Type__cRef15",
+            "Segment_Code__c": "NAAT",
+            "Migration_ID__c": "0014000000Jw1mFAAR"
+        }
+    ]
+}

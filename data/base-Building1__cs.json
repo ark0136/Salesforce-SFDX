@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef1"
+            },
+            
+          "Account__c": "@AccountRef2",
+            "Building_Description__c": "Main Building",
+            "Discovery_QuestionsCount__c": 14,
+            "Discovery_Modified_Date__c": "2021-02-09T06:50:25.000+0000"
+        }
+        
+    ]
+}

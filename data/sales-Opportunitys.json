@@ -1,0 +1,679 @@
+{
+   "records":[
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef29"
+         },
+         "Name":"Fantom - Deal Review",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef1",
+         "ADP_Opportunity_Owner__c":"005400000013chmAAA",
+         "CloseDate":"2013-09-26",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef30"
+         },
+         "Name":"Add RSM to account",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef1",
+         "ADP_Opportunity_Owner__c":"00540000001Hje9AAC",
+         "CloseDate":"2013-01-31",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef31"
+         },
+         "Name":"I-Leads Integration",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef1",
+         "ADP_Opportunity_Owner__c":"00540000001HyCnAAK",
+         "CloseDate":"2013-09-30",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef3"
+         },
+         "Name":"CC - Buy/Sell Assumption",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"00540000001Fq6mAAC",
+         "CloseDate":"2018-12-18",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Ownership Change"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef7"
+         },
+         "Name":"Bowser Chevrolet Hailer Boston",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2020-04-20",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Upgrade",
+         "Is_any_item_product_that_is_being_sold__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef8"
+         },
+         "Name":"(GLOBIT-40672) Partner Product Bulk Loads",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"00540000001IOgOAAW",
+         "CloseDate":"2019-11-11",
+         "StageName":"9. Contract Decision",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Cancellation/Pre-Activation Cancellation"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef25"
+         },
+         "Name":"GM Website Downgrade to Relay 06/30/2020",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"00540000001IOgcAAG",
+         "CloseDate":"2020-01-07",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Cancellation/Pre-Activation Cancellation"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef26"
+         },
+         "Name":"TechWorkbench",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-08-20",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef28"
+         },
+         "Name":"Dash UNHOOK",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"00540000001pRBdAAM",
+         "CloseDate":"2016-05-31",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Is_any_item_product_that_is_being_sold__c":"Yes",
+         "Existing_Item_s_this_is_replacing__c":"Autosoft"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef34"
+         },
+         "Name":"Boston Parts",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef2",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2020-12-31",
+         "StageName":"5. Confirm Buy-In",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"5",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef1"
+         },
+         "Name":"cc- Bowser Hyundai of chippewa",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef3",
+         "ADP_Opportunity_Owner__c":"00540000001Fq6mAAC",
+         "CloseDate":"2018-04-30",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef10"
+         },
+         "Name":"Bowser Hyundai of Chippewa Hailer Boston",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef3",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2019-09-17",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Upgrade",
+         "Is_any_item_product_that_is_being_sold__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef20"
+         },
+         "Name":"Cancel Relay site",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef3",
+         "ADP_Opportunity_Owner__c":"00540000001IOeaAAG",
+         "CloseDate":"2020-02-07",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Cancellation/Pre-Activation Cancellation"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef23"
+         },
+         "Name":"Outdoor Wireless",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef3",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-08-17",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef32"
+         },
+         "Name":"Computers",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef3",
+         "ADP_Opportunity_Owner__c":"005400000013chmAAA",
+         "CloseDate":"2014-08-31",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Is_any_item_product_that_is_being_sold__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef2"
+         },
+         "Name":"cc- power of bowser hyundai site",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001Fq6mAAC",
+         "CloseDate":"2018-04-30",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef4"
+         },
+         "Name":"nissan, hyundai's, portal",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001pcDfAAI",
+         "CloseDate":"2019-03-25",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef5"
+         },
+         "Name":"Cloud Connect",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2019-10-31",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Existing_Item_s_this_is_replacing__c":"routers, SDN circuits"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef9"
+         },
+         "Name":"Power of Bowser",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2019-09-17",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Upgrade",
+         "Is_any_item_product_that_is_being_sold__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef14"
+         },
+         "Name":"Gottlieb- Subaru Veh. Query",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"0050b000004st1hAAA",
+         "CloseDate":"2020-06-11",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef15"
+         },
+         "Name":"Genesis site cancellation",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001pIfPAAU",
+         "CloseDate":"2020-05-31",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Cancellation/Pre-Activation Cancellation"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef16"
+         },
+         "Name":"2 additional paging adapters",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-01-23",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef17"
+         },
+         "Name":"ELEAD Desking",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-01-31",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"4",
+         "Is_any_item_product_that_is_being_sold__c":"Yes",
+         "Add_On_or_Change_to_Prev_Contract__c":"No",
+         "Existing_Item_s_this_is_replacing__c":"First Pencil"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef18"
+         },
+         "Name":"Elead Desking/Market Scan - Bowser Auto Group - EW/SB",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"0050b000005rFSxAAM",
+         "CloseDate":"2020-01-23",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef19"
+         },
+         "Name":"Gottlieb - PC Upgrade",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"0050b000004st1hAAA",
+         "CloseDate":"2020-09-30",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef21"
+         },
+         "Name":"Outdoor Wireless - Hyundai Building",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-07-06",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef27"
+         },
+         "Name":"GM DDS Website Cancellation",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"0050b000004oR3nAAE",
+         "CloseDate":"2020-10-16",
+         "StageName":"9. Contract Decision",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Cancellation/Pre-Activation Cancellation"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef36"
+         },
+         "Name":"Tripicchio-PC",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"00533000003XN1UAAW",
+         "CloseDate":"2015-08-20",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef38"
+         },
+         "Name":"2020-10-30 Test Opportunity",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2021-02-26",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef39"
+         },
+         "Name":"2020-11-18 matt.keefe@cdk.com - Test Opp",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2020-11-30",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"5",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef40"
+         },
+         "Name":"2020-11-19 matt.keefe@cdk.com - Test",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2020-11-30",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"5",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef41"
+         },
+         "Name":"2020-12-03 Test",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2021-04-30",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"2",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef42"
+         },
+         "Name":"2020-12-10 Test Opportunity",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2020-12-31",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef43"
+         },
+         "Name":"2020-12-14 Test",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef4",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2020-12-31",
+         "StageName":"0. Undiscovered",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Unhook",
+         "Product_Sites__c":"5",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef6"
+         },
+         "Name":"Outdoor Wireless",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef5",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2019-02-05",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Existing_Item_s_this_is_replacing__c":"n/a"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef11"
+         },
+         "Name":"Bowser Truck/Body Shop Hailer Boston",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef5",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2019-09-17",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Upgrade",
+         "Is_any_item_product_that_is_being_sold__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef12"
+         },
+         "Name":"Gustafsson - 608 Laser",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"00533000003mgpTAAQ",
+         "CloseDate":"2019-12-17",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef13"
+         },
+         "Name":"elead Essentials CRM + ancillaries - Bowser Group - EW/SB",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"0050b000005rFSxAAM",
+         "CloseDate":"2019-12-24",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef22"
+         },
+         "Name":"Boston Hailer",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"0050b000005XD9nAAG",
+         "CloseDate":"2020-04-20",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"7",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef24"
+         },
+         "Name":"TechWorkbench",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-08-25",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef33"
+         },
+         "Name":"paging adapter",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"00540000001oBBIAA2",
+         "CloseDate":"2020-11-11",
+         "StageName":"Closed - Won",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef35"
+         },
+         "Name":"Gustafsson - Route One Integration",
+         "RecordTypeId":"012400000000xbZAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"00533000003mgpTAAQ",
+         "CloseDate":"2021-02-28",
+         "StageName":"2. Qualify the Hurt",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on",
+         "Product_Sites__c":"1",
+         "Is_any_item_product_that_is_being_sold__c":"No",
+         "Add_On_or_Change_to_Prev_Contract__c":"No"
+      },
+      {
+         "attributes":{
+            "type":"Opportunity",
+            "referenceId":"OpportunityRef37"
+         },
+         "Name":"Dynamic Website",
+         "RecordTypeId":"012400000000xbUAAQ",
+         "AccountId":"@AccountRef6",
+         "ADP_Opportunity_Owner__c":"005400000013fe5AAA",
+         "CloseDate":"2006-02-12",
+         "StageName":"Closed",
+         "OwnerId":"00540000000zU2KAAU",
+         "Type":"Add-on"
+      }
+   ]
+}

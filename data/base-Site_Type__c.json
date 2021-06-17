@@ -1,0 +1,1525 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef1"
+            },
+            "Name": "Home Office",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "HO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Home Office_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef2"
+            },
+            "Name": "Buses",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BU",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Buses_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QADPSA000T2T",
+            "SLX_DealerSiteType_CreateDate__c": "2003-06-30T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef3"
+            },
+            "Name": "Under Construction",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "UC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Under Construction_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QADPSA030ICX",
+            "SLX_DealerSiteType_CreateDate__c": "2005-05-04T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef4"
+            },
+            "Name": "Manufacturing",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MF",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Manufacturing_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA0314S9",
+            "SLX_DealerSiteType_CreateDate__c": "2005-06-08T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef5"
+            },
+            "Name": "Training",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "TN",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Training_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA032V96",
+            "SLX_DealerSiteType_CreateDate__c": "2005-08-18T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef6"
+            },
+            "Name": "Bank",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BK",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Bank_NAAT_0",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA033GVZ",
+            "SLX_DealerSiteType_CreateDate__c": "2005-09-09T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef7"
+            },
+            "Name": "Education Center",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "EC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Education Center_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA0346DV",
+            "SLX_DealerSiteType_CreateDate__c": "2005-10-05T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef8"
+            },
+            "Name": "OEM",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03A7Z0",
+            "SLX_DealerSiteType_CreateDate__c": "2006-05-30T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef9"
+            },
+            "Name": "ASP",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AP",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "ASP_NAAT_0",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03A7Z2",
+            "SLX_DealerSiteType_CreateDate__c": "2006-05-30T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef10"
+            },
+            "Name": "Other",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Other_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03CW3X",
+            "SLX_DealerSiteType_CreateDate__c": "2006-09-22T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef11"
+            },
+            "Name": "Construction",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Construction_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03LJQP",
+            "SLX_DealerSiteType_CreateDate__c": "2008-01-07T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef12"
+            },
+            "Name": "Material Handling",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MH",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Material Handling_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03LJRB",
+            "SLX_DealerSiteType_CreateDate__c": "2008-01-07T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef13"
+            },
+            "Name": "Heavy Equipment",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "HE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Heavy Equipment_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03LJRC",
+            "SLX_DealerSiteType_CreateDate__c": "2008-01-07T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef14"
+            },
+            "Name": "ES - Third Party",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "ES",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "ES - Third Party_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QADPSA03NYST",
+            "SLX_DealerSiteType_CreateDate__c": "2008-05-16T05:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef15"
+            },
+            "Name": "Auto",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Auto_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAP",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef16"
+            },
+            "Name": "Truck",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "TR",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Truck_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAQ",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef17"
+            },
+            "Name": "Used Vehicle",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "UV",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Used Vehicle_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAR",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef18"
+            },
+            "Name": "Farm",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "FA",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Farm_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAS",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef19"
+            },
+            "Name": "Corporation",
+            "Active__c": true,
+            "Corporation_Flag__c": true,
+            "Display_Code__c": "CO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Corporation_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAT",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef20"
+            },
+            "Name": "Business Solutions",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Business Solutions_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef21"
+            },
+            "Name": "Group",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "GP",
+            "District_Flag__c": false,
+            "Group_Flag__c": true,
+            "Migration_ID__c": "Group_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAU",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef22"
+            },
+            "Name": "District",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DT",
+            "District_Flag__c": true,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "District_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAV",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef23"
+            },
+            "Name": "Out-Of-Business",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Out-Of-Business_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": true,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAW",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef24"
+            },
+            "Name": "Duplicate",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DU",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Duplicate_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": true,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAX",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-17T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef25"
+            },
+            "Name": "Auction",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AU",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Auction_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAY",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef26"
+            },
+            "Name": "Boat",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Boat_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARAZ",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef27"
+            },
+            "Name": "Campers/RV",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CA",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Campers/RV_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB0",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef28"
+            },
+            "Name": "Leasing",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "LE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Leasing_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB2",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef29"
+            },
+            "Name": "Motorcycle",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Motorcycle_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB3",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef30"
+            },
+            "Name": "Management Group",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MG",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Management Group_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB4",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef31"
+            },
+            "Name": "Parts Store",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "PS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Parts Store_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB5",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef32"
+            },
+            "Name": "Rental",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "RE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Rental_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB6",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef33"
+            },
+            "Name": "Repair Shops",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "RS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Repair Shops_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB7",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef34"
+            },
+            "Name": "Trailers",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "TS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Trailers_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB8",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef35"
+            },
+            "Name": "Used Truck",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "UT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Used Truck_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARB9",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef36"
+            },
+            "Name": "OEM Corporation",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM Corporation_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef37"
+            },
+            "Name": "OEM Corporation",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM Corporation_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef38"
+            },
+            "Name": "OEM Corporation",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM Corporation_Global Rec_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "Global Rec",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef39"
+            },
+            "Name": "LMA Agency",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "LA",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "LMA Agency_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef40"
+            },
+            "Name": "Advertisers",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AD",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Advertisers_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef41"
+            },
+            "Name": "Gov't Office",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "GV",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Gov't Office_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef42"
+            },
+            "Name": "Retail",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "RT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Retail_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef43"
+            },
+            "Name": "Utility Vehicle",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "UH",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Utility Vehicle_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef44"
+            },
+            "Name": "Publishers",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "PL",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Publishers_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef45"
+            },
+            "Name": "OEM/Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM/Brand_Global Rec_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "Global Rec",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef46"
+            },
+            "Name": "Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BR",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Brand_Global Rec_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "Global Rec",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef47"
+            },
+            "Name": "Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BR",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Brand_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef48"
+            },
+            "Name": "Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "BR",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Brand_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef49"
+            },
+            "Name": "OEM/Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM/Brand_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef50"
+            },
+            "Name": "OEM/Brand",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM/Brand_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef51"
+            },
+            "Name": "Test Site",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "TS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Test Site_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef52"
+            },
+            "Name": "Marketing",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MK",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Marketing_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef53"
+            },
+            "Name": "Internal Office",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "IO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Internal Office_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef54"
+            },
+            "Name": "Vehicle Prep",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "VP",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Vehicle Prep_NAAT_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARBA",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef55"
+            },
+            "Name": "Service Shop (Corporate)",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "SS",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Service Shop (Corporate)_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARBC",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef56"
+            },
+            "Name": "TruckOthers(Campers, Leasing)",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "TO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "TruckOthers(Campers, Leasing)_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARBD",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef57"
+            },
+            "Name": "Data Center",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Data Center_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARBE",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef58"
+            },
+            "Name": "Fleet",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "FL",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Fleet_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D",
+            "SLX_DealerSite_Type_ID__c": "QCZO8A00ARBF",
+            "SLX_DealerSiteType_CreateDate__c": "2003-03-31T06:00:00.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef59"
+            },
+            "Name": "MFG Term",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "MFG Term_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef60"
+            },
+            "Name": "Agriculture",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AG",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Agriculture_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef61"
+            },
+            "Name": "Group",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "GP",
+            "District_Flag__c": false,
+            "Group_Flag__c": true,
+            "Migration_ID__c": "Group_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef62"
+            },
+            "Name": "Heavy Equipment",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "HE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Heavy Equipment_PFW_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef63"
+            },
+            "Name": "Out-Of-Business",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Out-Of-Business_PFW_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": true,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef64"
+            },
+            "Name": "Rental",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "RE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Rental_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef65"
+            },
+            "Name": "Under Construction",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "UC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Under Construction_PFW_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef66"
+            },
+            "Name": "Construction",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Construction_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef67"
+            },
+            "Name": "Corporation",
+            "Active__c": true,
+            "Corporation_Flag__c": true,
+            "Display_Code__c": "CO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Corporation_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef68"
+            },
+            "Name": "District",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DT",
+            "District_Flag__c": true,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "District_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef69"
+            },
+            "Name": "Refrigeration",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "RF",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Refrigeration_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "D"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef70"
+            },
+            "Name": "Data Center",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Data Center_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef71"
+            },
+            "Name": "Duplicate",
+            "Active__c": false,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "DU",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Duplicate_PFW_0",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": true,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef72"
+            },
+            "Name": "Auction",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AU",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Auction_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef73"
+            },
+            "Name": "Other",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OT",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Other_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef74"
+            },
+            "Name": "Material Handling",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "MH",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Material Handling_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef75"
+            },
+            "Name": "OEM",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "OE",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "OEM_PFW_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef76"
+            },
+            "Name": "Advertisers",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "AD",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Advertisers_AUTG_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "AUTG",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef77"
+            },
+            "Name": "Publishers",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "PL",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Publishers_AUTG_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "AUTG",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef78"
+            },
+            "Name": "Group",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "GP",
+            "District_Flag__c": false,
+            "Group_Flag__c": true,
+            "Migration_ID__c": "Group_AUTG_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "AUTG",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef79"
+            },
+            "Name": "Insurance",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "IN",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Insurance_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef80"
+            },
+            "Name": "Financial",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "FN",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Financial_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef81"
+            },
+            "Name": "Local Marketing",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "LM",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Local Marketing_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef82"
+            },
+            "Name": "Service Connect",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "SC",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Service Connect_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef83"
+            },
+            "Name": "Cobalt",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CB",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Cobalt_NAAT_1",
+            "Non_Sales_Type__c": true,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef84"
+            },
+            "Name": "Corporate Office",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Corporate Office_NAAT_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "NAAT",
+            "Site_Type_Flag__c": "N"
+        },
+        {
+            "attributes": {
+                "type": "Site_Type__c",
+                "referenceId": "Site_Type__cRef85"
+            },
+            "Name": "Corporate Office",
+            "Active__c": true,
+            "Corporation_Flag__c": false,
+            "Display_Code__c": "CO",
+            "District_Flag__c": false,
+            "Group_Flag__c": false,
+            "Migration_ID__c": "Corporate Office_PFW_1",
+            "Non_Sales_Type__c": false,
+            "OOB_Duplicates_Flag__c": false,
+            "Segment_Code__c": "PFW",
+            "Site_Type_Flag__c": "N"
+        }
+    ]
+}

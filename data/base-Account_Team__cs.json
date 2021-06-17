@@ -1,0 +1,292 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef1"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef1",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef2"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef1",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef3"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef1",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef4"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef2",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef5"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef2",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef6"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef2",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef7"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef3",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef8"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef3",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef9"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef3",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef10"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef4",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef11"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef4",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef12"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+           "Account__c": "@AccountRef4",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef13"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+          "Account__c": "@AccountRef5",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef14"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+          "Account__c": "@AccountRef5",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef15"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+          "Account__c": "@AccountRef5",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef16"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+            "Account__c": "@AccountRef6",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales - ASR",
+            
+            
+            "Team_Member__c": "0050b000004st1hAAA"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef17"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+            "Account__c": "@AccountRef6",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Inside Sales Rep",
+            
+            
+            "Team_Member__c": "00533000003mgpTAAQ"
+        },
+        {
+            "attributes": {
+                "type": "Account_Team__c",
+                "referenceId": "Account_Team__cRef18"
+            },
+            
+            "Account_Access__c": "Read/Write",
+			"OwnerId": "00540000000zU2KAAU",
+            "Account__c": "@AccountRef6",
+            "Case_Access__c": "Read/Write",
+            "Opportunity_Access__c": "Read/Write",
+            "Team_Role__c": "Forecasting - Baseline Rep",
+            
+            
+            "Team_Member__c": "00540000001oBBIAA2"
+        }
+    ]
+}

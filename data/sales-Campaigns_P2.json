@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "CampaignRef2"
+            },
+            "Name": "Drive/Dash",
+			"ParentId": "@CampaignRef1",
+			"Type": "Telemarketing",
+			"Status": "Completed",
+			"StartDate": "2015-07-07",
+			"EndDate": "2016-06-30",
+			"Description": "Parent",
+			"Campaign_Source__c": "Field Sales"
+        },
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef3"
+			},
+			"Name": "OEM Initiative",
+			"ParentId": "@CampaignRef1",
+			"Status": "Completed",
+			"StartDate": "2015-07-07",
+			"EndDate": "2016-06-30",
+			"Description": "Strategic Area",
+			"Campaign_Source__c": "Field Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef4"
+			},
+			"Name": "CDK Consulting",
+			"ParentId": "@CampaignRef1",
+			"Status": "Completed",
+			"StartDate": "2015-07-07",
+			"EndDate": "2016-06-30",
+			"Description": "Strategic Area",
+			"Campaign_Source__c": "Field Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef5"
+			},
+			"Name": "LG Quota Carrying",
+			"ParentId": "@CampaignRef1",
+			"Status": "Completed",
+			"StartDate": "2015-07-07",
+			"EndDate": "2016-06-30",
+			"Description": "Strategic Area",
+			"Campaign_Source__c": "Inside Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef6"
+			},
+			"Name": "Profit Clinics - FY'11",
+			"Type": "Email",
+			"Status": "Completed",
+			"StartDate": "2010-08-11",
+			"EndDate": "2011-06-30",
+			"Description": "Marketing email campaign for Profit Clinic.",
+			"Campaign_Source__c": "Field Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef7"
+			},
+			"Name": "NADA",
+			"Type": "Seminar / Conference",
+			"Status": "Completed",
+			"StartDate": "2015-01-19",
+			"EndDate": "2015-01-19",
+			"Campaign_Source__c": "Field Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef8"
+			},    
+			"Name": "Fixed Ops Expo Sales Follow Up",
+			"Type": "Telemarketing",
+			"Status": "Completed",
+			"StartDate": "2012-11-14",
+			"EndDate": "2013-11-13",
+			"Description": "Parent campaign for Fixed Ops Expo Sales Follow Up\r\nDeactivated by Sales Ops on 3/6/14 due to no activity.",
+			"Campaign_Source__c": "Inside Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef9"
+			},
+			"Name": "Fixed Ops - FY14",
+			"Type": "Telemarketing",
+			"Status": "Completed",
+			"StartDate": "2013-07-01",
+			"EndDate": "2014-06-30",
+			"Campaign_Source__c": "Inside Sales"
+		},
+		{
+			"attributes": {
+			"type": "Campaign",
+			"referenceId": "CampaignRef10"
+			},
+			"Name": "Add-Ons - FY15",
+			"Type": "Telemarketing",
+			"Status": "Completed",
+			"StartDate": "2014-06-23",
+			"EndDate": "2015-06-23",
+			"Campaign_Source__c": "Inside Sales"
+		}
+    ]
+}

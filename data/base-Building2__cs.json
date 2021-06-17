@@ -1,0 +1,265 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef2"
+            },
+           
+          "Account__c": "@AccountRef2",
+            "Building_Description__c": "Make Ready",
+            
+            "Network_Connected_To_Building__c": "@Building__cRef1",
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            
+            "Discovery_QuestionsCount_Department__c": 0,
+            "Display_Name__c": "TEST - Make Ready"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef3"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "gmc building",
+            "Who_supports_the_Dealership_IT_needs__c": "Third Party IT Company",
+            
+            
+            
+            "Discovery_QuestionsCount_Department__c": 20
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef4"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Dealership"
+            
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef5"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Sales Building"
+            
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef6"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Accounting"
+            
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef7"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Sales Building"
+            
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef8"
+            },
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "testing",
+            "Who_supports_the_Dealership_IT_needs__c": "Third Party IT Company",
+            "Name_of_Dealership_s_IT_contact__c": "Joes",
+            "What_infrastructure_do_they_support__c": "Both PC and Network Support",
+            "Separate_company_for_Phone_support__c": "No",
+            "Dealership_IT_Support_Notes__c": "They support onsite Avaya Phone system as well. Phone system is 6 years old.",
+            "How_many_Local_Buildings_on_this_campus__c": 2,
+            "Name_of_additional_buildings_on_campus__c": "Make Ready and Preowned",
+            "How_are_the_buildings_connected__c": "Cat5",
+            "Where_is_the_main_Computer_Room_located__c": "In back of Accounting.",
+            "Is_the_DMARC_location_in_this_Room__c": "Yes",
+            "Any_more_computer_closets_this_building__c": "There is another computer closet in the back Service Shop with more equipment.",
+            "CAT5e_cabling_or_better_from_switches__c": "Yes",
+            "Remote_Sites_connected_to_this_campus__c": 2,
+            "Name_of_Remote_Building_sites__c": "Parts Warehouse and another Preowned",
+            "How_are_the_Remote_sites_connected__c": "Metro eLAN",
+            "Are_remote_VPN_users_needed__c": "Yes",
+            "How_many__c": 6,
+            "Building_Configuration_Notes__c": "Place to add notes.",
+            "ISP_Provider_Name_Number_One__c": "AT&T",
+            "ISP_Provider_Name_Number_Two__c": "Comcast",
+            "First_Connection_Media_Type__c": "Fiber",
+            "Bandwidth_Speed_Upload_Download__c": "50/50",
+            "Plans_to_increase_speed_next_six_months__c": "Yes",
+            "Do_you_have_a_Block_of_Static_IPs__c": "Yes",
+            "Second_Connection_Media_Type__c": "Fiber",
+            "Plans_to_increase_speed_next_six_months2__c": "No",
+            "Bandwidth_Speed_Upload_Download2__c": "100/100 mb",
+            "Does_it_provide_content_filtering__c": "Yes",
+            "Any_other_security_devices_in_place__c": "No",
+            "It_there_a_DVR_Camera_security_system__c": "Yes",
+            "Is_it_on_a_separate_Network_backbone__c": "Yes",
+            "Does_it_need_remote_user_access__c": "Yes",
+            "Do_you_have_a_VOIP_Phone_system__c": "Yes",
+            "Is_it_on_a_separate_Network_backbone2__c": "Yes",
+            "What_make_is_the_Primary_Router__c": "Cisco",
+            "What_model_is_the_Primary_Router__c": "2600",
+            "Bandwidth_Speed_Rating_Primary_Router__c": "200mb",
+            "What_Make_is_the_Secondary_Router__c": "Cisco",
+            "What_model_is_the_Secondary_Router__c": "1600",
+            "Bandwidth_Speed_Rating_Secondary_Router__c": "50mb",
+            
+            "Is_wireless_throughout_the_dealership__c": "No",
+            "Any_dead_Spots_in_Coverage_Inside__c": "Yes",
+            "Is_wireless_covering_the_outside_lot__c": "Yes",
+            "Any_dead_Spots_in_Coverage_outside__c": "Yes",
+            "Quantity_of_the_wireless_Indoor_AP_s__c": 3,
+            "Make_of_Indoor_Access_Points__c": "Cisco",
+            "Model_of_Indoor_Access_Points__c": "Aeronet",
+            "Quantity_of_the_wireless_Outdoor_AP_s__c": 2,
+            "Make_of_Outdoor_Access_Points__c": "Cisco",
+            "Model_of_Outdoor_Access_Points__c": "Aeronet",
+            "Wireless_Equipment_Notes__c": "Wants Full Wireless Quote concentrating on outdoor coverage of Lot and Service.",
+            "Onsite_DMS_Server_provider__c": "R&R",
+            "What_software_operating_version__c": "ERA",
+            "How_do_you_back_it_up__c": "Local",
+            "Any_thin_client_devices_being_used__c": "Yes",
+            "How_many2__c": 15,
+            "Where_are_they_located__c": "Service Shop for Technicians"
+            
+            
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef9"
+            },
+          
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Description value",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            "Discovery_AnswersCount__c": 2,
+            
+            "Discovery_QuestionsCount_Department__c": 0,
+            "Discovery_QuestionsCount__c": 2,
+            
+            "Active_Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef10"
+            },
+            
+           "Account__c": "@AccountRef4",
+            "How_are_the_buildings_connected__c": "Metro eLAN",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            
+            "Discovery_QuestionsCount_Department__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef11"
+            },
+            
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Main Building",
+            "ISP_Provider_Name_Number_One__c": "One updated",
+            "ISP_Provider_Name_Number_Two__c": "Two updated",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            "Discovery_AnswersCount__c": 14,
+            
+            "Discovery_QuestionsCount_Department__c": 7,
+            "Discovery_QuestionsCount__c": 14,
+            
+            "Discovery_Modified_Date__c": "2021-02-09T06:52:15.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef12"
+            },
+           
+           "Account__c": "@AccountRef4",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            
+            "Discovery_QuestionsCount_Department__c": 20,
+            "Discovery_QuestionsCount__c": 2,
+            
+            "Discovery_Modified_Date__c": "2021-02-09T06:50:28.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef13"
+            },
+          
+           "Account__c": "@AccountRef4",
+            
+            
+            "Discovery_AnswersCount_Department__c": 5,
+            
+            "Discovery_QuestionsCount_Department__c": 12,
+            "Discovery_QuestionsCount__c": 2,
+            
+            "Discovery_Modified_Date__c": "2021-02-09T16:21:28.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef14"
+            },
+            
+           "Account__c": "@AccountRef4",
+            "Building_Description__c": "Description POSTED MAIN",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            "Discovery_AnswersCount__c": 2,
+            
+            "Discovery_QuestionsCount_Department__c": 103,
+            "Discovery_QuestionsCount__c": 14,
+            
+            "Discovery_Modified_Date__c": "2021-01-27T11:37:15.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef15"
+            },
+            
+          "Account__c": "@AccountRef6",
+            "Building_Description__c": "Building_Description__c",
+            
+            
+            "Discovery_AnswersCount_Department__c": 0,
+            "Discovery_AnswersCount__c": 2,
+            
+            "Discovery_QuestionsCount_Department__c": 103,
+            "Discovery_QuestionsCount__c": 14
+            
+        }
+    ]
+}
